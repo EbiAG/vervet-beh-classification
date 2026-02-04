@@ -1,0 +1,65 @@
+actual_label,predicted_label,count
+Eating,Eating,194
+Eating,Grooming actor,8
+Eating,Grooming receiver,0
+Eating,Resting,50
+Eating,Running,0
+Eating,Self-scratching,1
+Eating,Sleeping,0
+Eating,Walking,7
+Grooming actor,Eating,21
+Grooming actor,Grooming actor,26
+Grooming actor,Grooming receiver,0
+Grooming actor,Resting,30
+Grooming actor,Running,0
+Grooming actor,Self-scratching,0
+Grooming actor,Sleeping,0
+Grooming actor,Walking,0
+Grooming receiver,Eating,0
+Grooming receiver,Grooming actor,2
+Grooming receiver,Grooming receiver,32
+Grooming receiver,Resting,23
+Grooming receiver,Running,0
+Grooming receiver,Self-scratching,0
+Grooming receiver,Sleeping,0
+Grooming receiver,Walking,0
+Resting,Eating,31
+Resting,Grooming actor,7
+Resting,Grooming receiver,1
+Resting,Resting,281
+Resting,Running,0
+Resting,Self-scratching,0
+Resting,Sleeping,0
+Resting,Walking,0
+Running,Eating,1
+Running,Grooming actor,0
+Running,Grooming receiver,0
+Running,Resting,0
+Running,Running,4
+Running,Self-scratching,0
+Running,Sleeping,0
+Running,Walking,1
+Self-scratching,Eating,10
+Self-scratching,Grooming actor,3
+Self-scratching,Grooming receiver,0
+Self-scratching,Resting,5
+Self-scratching,Running,0
+Self-scratching,Self-scratching,7
+Self-scratching,Sleeping,0
+Self-scratching,Walking,2
+Sleeping,Eating,0
+Sleeping,Grooming actor,0
+Sleeping,Grooming receiver,0
+Sleeping,Resting,10
+Sleeping,Running,0
+Sleeping,Self-scratching,0
+Sleeping,Sleeping,12
+Sleeping,Walking,0
+Walking,Eating,32
+Walking,Grooming actor,0
+Walking,Grooming receiver,0
+Walking,Resting,4
+Walking,Running,0
+Walking,Self-scratching,0
+Walking,Sleeping,0
+Walking,Walking,71

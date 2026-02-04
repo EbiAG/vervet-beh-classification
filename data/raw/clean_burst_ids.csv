@@ -1,0 +1,651 @@
+"Ind_ID","burst_id","Final_behaviour","is_clean_burst"
+"Aarhus",70723,"Eating",TRUE
+"Aarhus",70725,"Walking",TRUE
+"Aarhus",70727,"Resting",TRUE
+"Aarhus",70729,"Resting",TRUE
+"Aarhus",70731,"Resting",TRUE
+"Aarhus",70732,"Eating",TRUE
+"Aarhus",70788,"Eating",TRUE
+"Aarhus",77408,"Grooming receiver",TRUE
+"Aarhus",77449,"Resting",TRUE
+"Aarhus",77452,"Eating",TRUE
+"Aarhus",79394,"Eating",TRUE
+"Aarhus",79433,"Grooming actor",TRUE
+"Aarhus",79486,"Eating",TRUE
+"Aarhus",79488,"Walking",TRUE
+"Aarhus",85233,"Sleeping",TRUE
+"Aarhus",85235,"Sleeping",TRUE
+"Aarhus",85236,"Sleeping",TRUE
+"Aarhus",85309,"Grooming actor",TRUE
+"Aarhus",85310,"Resting",TRUE
+"Aarhus",85311,"Grooming receiver",TRUE
+"Aarhus",93777,"Grooming actor",TRUE
+"Aarhus",93779,"Resting",TRUE
+"Aarhus",95964,"Resting",TRUE
+"Aarhus",100599,"Resting",TRUE
+"Aarhus",179130,"Resting",TRUE
+"Aarhus",312527,"Resting",TRUE
+"Furry Glen",66836,"Grooming receiver",TRUE
+"Furry Glen",66837,"Grooming receiver",TRUE
+"Furry Glen",66838,"Grooming actor",TRUE
+"Furry Glen",66840,"Grooming actor",TRUE
+"Furry Glen",66841,"Grooming actor",TRUE
+"Furry Glen",66842,"Resting",TRUE
+"Furry Glen",66844,"Resting",TRUE
+"Furry Glen",66851,"Resting",TRUE
+"Furry Glen",66852,"Resting",TRUE
+"Furry Glen",66854,"Resting",TRUE
+"Furry Glen",73630,"Resting",TRUE
+"Furry Glen",73631,"Grooming actor",TRUE
+"Furry Glen",75535,"Grooming receiver",TRUE
+"Furry Glen",76546,"Resting",TRUE
+"Furry Glen",76549,"Sleeping",TRUE
+"Furry Glen",76555,"Grooming actor",TRUE
+"Furry Glen",76556,"Grooming actor",TRUE
+"Furry Glen",76557,"Resting",TRUE
+"Furry Glen",81335,"Sleeping",TRUE
+"Furry Glen",81338,"Sleeping",TRUE
+"Furry Glen",81411,"Grooming receiver",TRUE
+"Furry Glen",96704,"Resting",TRUE
+"Furry Glen",96705,"Resting",TRUE
+"Furry Glen",96706,"Resting",TRUE
+"Furry Glen",96710,"Eating",TRUE
+"Furry Glen",301016,"Grooming receiver",TRUE
+"Furry Glen",301017,"Grooming receiver",TRUE
+"Furry Glen",301018,"Grooming actor",TRUE
+"Furry Glen",301019,"Grooming actor",TRUE
+"Furry Glen",301020,"Grooming actor",TRUE
+"Furry Glen",301021,"Grooming receiver",TRUE
+"Furry Glen",301022,"Grooming receiver",TRUE
+"Furry Glen",301023,"Grooming actor",TRUE
+"Furry Glen",301024,"Grooming actor",TRUE
+"Furry Glen",301025,"Grooming receiver",TRUE
+"Furry Glen",301026,"Grooming receiver",TRUE
+"Furry Glen",301027,"Grooming actor",TRUE
+"Furry Glen",301028,"Grooming actor",TRUE
+"Furry Glen",301030,"Grooming actor",TRUE
+"Furry Glen",301031,"Grooming receiver",TRUE
+"Furry Glen",301032,"Grooming receiver",TRUE
+"Furry Glen",301033,"Grooming actor",TRUE
+"Furry Glen",301034,"Grooming actor",TRUE
+"Furry Glen",301035,"Resting",TRUE
+"Furry Glen",301735,"Eating",TRUE
+"Furry Glen",301737,"Eating",TRUE
+"Furry Glen",301738,"Eating",TRUE
+"Furry Glen",301739,"Eating",TRUE
+"Furry Glen",301740,"Eating",TRUE
+"Furry Glen",301741,"Eating",TRUE
+"Furry Glen",301742,"Eating",TRUE
+"Furry Glen",301743,"Eating",TRUE
+"Furry Glen",301744,"Eating",TRUE
+"Furry Glen",301745,"Eating",TRUE
+"Furry Glen",301747,"Eating",TRUE
+"Furry Glen",301748,"Eating",TRUE
+"Furry Glen",301751,"Resting",TRUE
+"Furry Glen",301752,"Resting",TRUE
+"Furry Glen",301754,"Resting",TRUE
+"Furry Glen",301888,"Eating",TRUE
+"Furry Glen",301890,"Resting",TRUE
+"Furry Glen",301891,"Resting",TRUE
+"Furry Glen",377535,"Grooming receiver",TRUE
+"Furry Glen",377537,"Canopy movement",TRUE
+"Furry Glen",377538,"Resting",TRUE
+"Furry Glen",377539,"Resting",TRUE
+"Furry Glen",377540,"Resting",TRUE
+"Furry Glen",377541,"Resting",TRUE
+"Furry Glen",377543,"Resting",TRUE
+"Furry Glen",377544,"Resting",TRUE
+"Furry Glen",377545,"Resting",TRUE
+"Furry Glen",377546,"Resting",TRUE
+"Furry Glen",377547,"Resting",TRUE
+"Furry Glen",377548,"Resting",TRUE
+"Furry Glen",377549,"Resting",TRUE
+"Furry Glen",377550,"Resting",TRUE
+"Furry Glen",377551,"Resting",TRUE
+"Heelal",94011,"Resting",TRUE
+"Heelal",158363,"Sleeping",TRUE
+"Heelal",158364,"Sleeping",TRUE
+"Heelal",158366,"Resting",TRUE
+"Heelal",158367,"Sleeping",TRUE
+"Heelal",158368,"Resting",TRUE
+"Kommunis",214587,"Walking",TRUE
+"Kommunis",214588,"Eating",TRUE
+"Kommunis",214589,"Eating",TRUE
+"Kommunis",214591,"Resting",TRUE
+"Kommunis",214592,"Resting",TRUE
+"Kommunis",214593,"Eating",TRUE
+"Kommunis",214594,"Eating",TRUE
+"Kommunis",214603,"Eating",TRUE
+"Kommunis",214604,"Eating",TRUE
+"Kommunis",214605,"Eating",TRUE
+"Kommunis",214607,"Resting",TRUE
+"Kommunis",306760,"Resting",TRUE
+"Mieles",289538,"Grooming receiver",TRUE
+"Mieles",289539,"Grooming actor",TRUE
+"Mieles",299143,"Grooming receiver",TRUE
+"Mieles",299144,"Grooming receiver",TRUE
+"Mieles",299145,"Resting",TRUE
+"Mieles",299147,"Resting",TRUE
+"Mieles",299149,"Grooming receiver",TRUE
+"Mieles",299150,"Grooming receiver",TRUE
+"Mieles",299151,"Grooming actor",TRUE
+"Mieles",299152,"Grooming actor",TRUE
+"Mieles",299153,"Grooming receiver",TRUE
+"Mieles",299154,"Grooming receiver",TRUE
+"Mieles",299155,"Grooming receiver",TRUE
+"Mieles",299157,"Grooming receiver",TRUE
+"Mieles",299158,"Grooming actor",TRUE
+"Mieles",299159,"Grooming actor",TRUE
+"Mieles",299160,"Grooming actor",TRUE
+"Mieles",300110,"Grooming actor",TRUE
+"Mieles",300111,"Grooming actor",TRUE
+"Mieles",300114,"Grooming actor",TRUE
+"Mieles",300116,"Grooming receiver",TRUE
+"Mieles",300117,"Grooming receiver",TRUE
+"Mieles",300124,"Grooming actor",TRUE
+"Mieles",300125,"Grooming actor",TRUE
+"Mieles",300126,"Grooming actor",TRUE
+"Mieles",300128,"Grooming actor",TRUE
+"Mieles",300129,"Grooming actor",TRUE
+"Mieles",300138,"Grooming actor",TRUE
+"Mieles",300140,"Grooming receiver",TRUE
+"Mieles",300141,"Grooming receiver",TRUE
+"Mieles",305022,"Grooming actor",TRUE
+"Mieles",305023,"Grooming actor",TRUE
+"Mieles",305024,"Grooming actor",TRUE
+"Mieles",305025,"Grooming actor",TRUE
+"Mieles",305028,"Grooming actor",TRUE
+"Mieles",305029,"Grooming actor",TRUE
+"Mieles",305030,"Grooming actor",TRUE
+"Mieles",305031,"Resting",TRUE
+"Mieles",305032,"Grooming receiver",TRUE
+"Mieles",305033,"Eating",TRUE
+"Mieles",305034,"Eating",TRUE
+"Mieles",305038,"Resting",TRUE
+"Mieles",305041,"Eating",TRUE
+"Mieles",306644,"Foraging canopy",TRUE
+"Mieles",329811,"Eating",TRUE
+"Mieles",329812,"Eating",TRUE
+"Mieles",329813,"Eating",TRUE
+"Mieles",329814,"Eating",TRUE
+"Mieles",329815,"Eating",TRUE
+"Mieles",329816,"Eating",TRUE
+"Mieles",329817,"Eating",TRUE
+"Mieles",329818,"Eating",TRUE
+"Mieles",329819,"Eating",TRUE
+"Mieles",329820,"Eating",TRUE
+"Mieles",329822,"Eating",TRUE
+"Mieles",329823,"Eating",TRUE
+"Mieles",329824,"Eating",TRUE
+"Mieles",329825,"Eating",TRUE
+"Mieles",329830,"Eating",TRUE
+"Mieles",329879,"Grooming actor",TRUE
+"Mieles",329880,"Grooming actor",TRUE
+"Mieles",329881,"Grooming actor",TRUE
+"Mieles",329883,"Grooming actor",TRUE
+"Mieles",329884,"Grooming actor",TRUE
+"Mieles",329885,"Grooming receiver",TRUE
+"Nakhu",87378,"Eating",TRUE
+"Nakhu",87379,"Eating",TRUE
+"Nakhu",87421,"Eating",TRUE
+"Nakhu",87422,"Eating",TRUE
+"Nakhu",151677,"Sleeping",TRUE
+"Nakhu",151678,"Sleeping",TRUE
+"Nakhu",151679,"Sleeping",TRUE
+"Nakhu",151682,"Resting",TRUE
+"Nakhu",151683,"Sleeping",TRUE
+"Nakhu",151684,"Sleeping",TRUE
+"Nakhu",151685,"Resting",TRUE
+"Nakhu",151686,"Resting",TRUE
+"Nakhu",209006,"Resting",TRUE
+"Nakhu",209015,"Eating",TRUE
+"Nakhu",209016,"Resting",TRUE
+"Nakhu",209018,"Resting",TRUE
+"Nakhu",209062,"Resting",TRUE
+"Nakhu",209064,"Resting",TRUE
+"Nakhu",209076,"Resting",TRUE
+"Nakhu",217567,"Resting",TRUE
+"Nakhu",217568,"Resting",TRUE
+"Nakhu",217584,"Resting",TRUE
+"Nakhu",217585,"Eating",TRUE
+"Nakhu",217589,"Resting",TRUE
+"Nakhu",307025,"Resting",TRUE
+"Nakhu",307027,"Resting",TRUE
+"Nakhu",307028,"Resting",TRUE
+"Nakhu",307029,"Resting",TRUE
+"Nakhu",308146,"Eating",TRUE
+"Nakhu",308148,"Eating",TRUE
+"Nakhu",308149,"Eating",TRUE
+"Nakhu",309689,"Resting",TRUE
+"Nakhu",309693,"Foraging canopy",TRUE
+"Nakhu",309700,"Eating",TRUE
+"Nakhu",309701,"Resting",TRUE
+"Nakhu",309703,"Foraging ground",TRUE
+"Nakhu",309712,"Foraging ground",TRUE
+"Nakhu",309715,"Eating",TRUE
+"Nakhu",322355,"Resting",TRUE
+"Nakhu",322359,"Eating",TRUE
+"Nakhu",322369,"Resting",TRUE
+"Nakhu",322370,"Resting",TRUE
+"Nakhu",322371,"Resting",TRUE
+"Nakhu",322372,"Resting",TRUE
+"Nakhu",326043,"Resting",TRUE
+"Nakhu",326044,"Eating",TRUE
+"Nakhu",326045,"Eating",TRUE
+"Nakhu",326046,"Eating",TRUE
+"Nakhu",326047,"Eating",TRUE
+"Nakhu",326048,"Resting",TRUE
+"Nakhu",326049,"Foraging canopy",TRUE
+"Nakhu",326050,"Resting",TRUE
+"Nakhu",326059,"Resting",TRUE
+"Ndawanya",313688,"Eating",TRUE
+"Ndawanya",313689,"Eating",TRUE
+"Ndawanya",313692,"Eating",TRUE
+"Ndawanya",313697,"Resting",TRUE
+"Ndawanya",313699,"Eating",TRUE
+"Ndawanya",313701,"Eating",TRUE
+"Ndawanya",313703,"Eating",TRUE
+"Ndawanya",313704,"Eating",TRUE
+"Ndawanya",313707,"Eating",TRUE
+"Ndawanya",342473,"Eating",TRUE
+"Ndawanya",342478,"Eating",TRUE
+"Ndawanya",342479,"Resting",TRUE
+"Ndawanya",342483,"Eating",TRUE
+"Ndawanya",342485,"Eating",TRUE
+"Ndawanya",342487,"Eating",TRUE
+"Ndawanya",342488,"Eating",TRUE
+"Okefenokee",77460,"Resting",TRUE
+"Okefenokee",77461,"Resting",TRUE
+"Okefenokee",77463,"Resting",TRUE
+"Okefenokee",79457,"Resting",TRUE
+"Okefenokee",79458,"Resting",TRUE
+"Okefenokee",79459,"Resting",TRUE
+"Okefenokee",79461,"Resting",TRUE
+"Okefenokee",80479,"Grooming actor",TRUE
+"Okefenokee",80480,"Grooming receiver",TRUE
+"Okefenokee",93907,"Eating",TRUE
+"Okefenokee",93909,"Grooming actor",TRUE
+"Okefenokee",100585,"Resting",TRUE
+"Okefenokee",100586,"Eating",TRUE
+"Okefenokee",100587,"Eating",TRUE
+"Okefenokee",100589,"Eating",TRUE
+"Okefenokee",158312,"Resting",TRUE
+"Okefenokee",158315,"Eating",TRUE
+"Okefenokee",179152,"Resting",TRUE
+"Okefenokee",179153,"Resting",TRUE
+"Okefenokee",179154,"Resting",TRUE
+"Okefenokee",179155,"Resting",TRUE
+"Okefenokee",179157,"Resting",TRUE
+"Okefenokee",179161,"Resting",TRUE
+"Okefenokee",179162,"Resting",TRUE
+"Okefenokee",179163,"Resting",TRUE
+"Pomelo",88554,"Eating",TRUE
+"Pomelo",88555,"Eating",TRUE
+"Pomelo",88556,"Eating",TRUE
+"Pomelo",88559,"Grooming actor",TRUE
+"Pomelo",88560,"Resting",TRUE
+"Pomelo",88561,"Eating",TRUE
+"Pomelo",88570,"Eating",TRUE
+"Pomelo",88572,"Eating",TRUE
+"Pomelo",142125,"Eating",TRUE
+"Pomelo",160491,"Resting",TRUE
+"Pomelo",160492,"Resting",TRUE
+"Pomelo",160494,"Resting",TRUE
+"Pomelo",161586,"Resting",TRUE
+"Pomelo",161587,"Eating",TRUE
+"Pomelo",161591,"Eating",TRUE
+"Pomelo",300225,"Resting",TRUE
+"Pomelo",300226,"Resting",TRUE
+"Pomelo",300227,"Resting",TRUE
+"Pomelo",300230,"Resting",TRUE
+"Pomelo",300233,"Resting",TRUE
+"Pomelo",300240,"Resting",TRUE
+"Pomelo",304140,"Grooming receiver",TRUE
+"Pomelo",304141,"Grooming receiver",TRUE
+"Pomelo",304147,"Resting",TRUE
+"Pomelo",304148,"Resting",TRUE
+"Pomelo",304149,"Resting",TRUE
+"Pomelo",304151,"Walking",TRUE
+"Pomelo",304153,"Resting",TRUE
+"Pomelo",304158,"Walking",TRUE
+"Pomelo",304159,"Resting",TRUE
+"Pomelo",320516,"Resting",TRUE
+"Pomelo",320517,"Eating",TRUE
+"Pomelo",320519,"Resting",TRUE
+"Pomelo",320520,"Resting",TRUE
+"Pomelo",320524,"Resting",TRUE
+"Pomelo",320525,"Eating",TRUE
+"Pomelo",320526,"Eating",TRUE
+"Pomelo",320527,"Eating",TRUE
+"Pomelo",320528,"Eating",TRUE
+"Pomelo",320529,"Eating",TRUE
+"Pomelo",320530,"Eating",TRUE
+"Pomelo",320531,"Eating",TRUE
+"Pomelo",320532,"Eating",TRUE
+"Pomelo",320533,"Eating",TRUE
+"Pomelo",320534,"Eating",TRUE
+"Pomelo",320535,"Eating",TRUE
+"Ratel",62328,"Resting",TRUE
+"Ratel",62332,"Foraging canopy",TRUE
+"Ratel",62333,"Walking",TRUE
+"Ratel",62362,"Foraging canopy",TRUE
+"Ratel",62364,"Resting",TRUE
+"Ratel",62406,"Eating",TRUE
+"Ratel",62464,"Grooming receiver",TRUE
+"Ratel",62465,"Grooming receiver",TRUE
+"Ratel",69065,"Eating",TRUE
+"Ratel",69069,"Resting",TRUE
+"Ratel",73088,"Resting",TRUE
+"Ratel",73089,"Resting",TRUE
+"Ratel",89358,"Resting",TRUE
+"Ratel",89361,"Resting",TRUE
+"Ratel",89362,"Resting",TRUE
+"Ratel",89363,"Sleeping",TRUE
+"Ratel",89364,"Sleeping",TRUE
+"Ratel",89391,"Grooming receiver",TRUE
+"Ratel",89392,"Grooming receiver",TRUE
+"Ratel",89393,"Grooming receiver",TRUE
+"Ratel",89394,"Grooming receiver",TRUE
+"Ratel",89395,"Grooming actor",TRUE
+"Ratel",89396,"Grooming actor",TRUE
+"Ratel",89461,"Walking",TRUE
+"Ratel",173916,"Eating",TRUE
+"Ratel",211953,"Resting",TRUE
+"Ratel",211955,"Resting",TRUE
+"Ratel",302319,"Resting",TRUE
+"Ratel",302320,"Resting",TRUE
+"Ratel",302321,"Resting",TRUE
+"Ratel",302322,"Eating",TRUE
+"Ratel",302324,"Resting",TRUE
+"Ratel",302326,"Eating",TRUE
+"Ratel",302327,"Eating",TRUE
+"Ratel",302328,"Eating",TRUE
+"Ratel",302329,"Eating",TRUE
+"Ratel",302330,"Eating",TRUE
+"Ratel",302332,"Eating",TRUE
+"Ratel",302333,"Eating",TRUE
+"Ratel",302334,"Eating",TRUE
+"Ratel",302335,"Eating",TRUE
+"Ratel",302336,"Eating",TRUE
+"Ratel",302338,"Eating",TRUE
+"Seychelles",70927,"Walking",TRUE
+"Seychelles",70928,"Walking",TRUE
+"Seychelles",70931,"Eating",TRUE
+"Seychelles",70932,"Eating",TRUE
+"Seychelles",70933,"Walking",TRUE
+"Seychelles",70934,"Eating",TRUE
+"Seychelles",158411,"Resting",TRUE
+"Seychelles",158412,"Resting",TRUE
+"Seychelles",158415,"Resting",TRUE
+"Seychelles",224279,"Eating",TRUE
+"Seychelles",224280,"Eating",TRUE
+"Seychelles",224282,"Eating",TRUE
+"Seychelles",224283,"Eating",TRUE
+"Seychelles",224284,"Eating",TRUE
+"Seychelles",224286,"Eating",TRUE
+"Seychelles",224287,"Eating",TRUE
+"Seychelles",224288,"Eating",TRUE
+"Seychelles",224289,"Resting",TRUE
+"Seychelles",224290,"Resting",TRUE
+"Seychelles",224297,"Resting",TRUE
+"Seychelles",224298,"Resting",TRUE
+"Seychelles",224306,"Resting",TRUE
+"Seychelles",224307,"Resting",TRUE
+"Seychelles",224310,"Resting",TRUE
+"Seychelles",238965,"Resting",TRUE
+"Seychelles",238966,"Eating",TRUE
+"Seychelles",238967,"Eating",TRUE
+"Seychelles",238968,"Eating",TRUE
+"Seychelles",238969,"Eating",TRUE
+"Seychelles",299309,"Grooming actor",TRUE
+"Seychelles",299313,"Resting",TRUE
+"Seychelles",299315,"Resting",TRUE
+"Seychelles",299317,"Resting",TRUE
+"Seychelles",299318,"Resting",TRUE
+"Seychelles",299319,"Resting",TRUE
+"Seychelles",299320,"Resting",TRUE
+"Seychelles",299321,"Resting",TRUE
+"Seychelles",299324,"Grooming receiver",TRUE
+"Seychelles",299325,"Grooming actor",TRUE
+"Seychelles",299326,"Resting",TRUE
+"Seychelles",299327,"Resting",TRUE
+"Seychelles",308909,"Grooming actor",TRUE
+"Seychelles",308910,"Grooming actor",TRUE
+"Seychelles",308911,"Resting",TRUE
+"Seychelles",308912,"Resting",TRUE
+"Seychelles",308913,"Resting",TRUE
+"Seychelles",308915,"Grooming actor",TRUE
+"Seychelles",308916,"Grooming actor",TRUE
+"Seychelles",308917,"Grooming actor",TRUE
+"Seychelles",308918,"Grooming receiver",TRUE
+"Seychelles",308919,"Grooming receiver",TRUE
+"Seychelles",308920,"Grooming actor",TRUE
+"Seychelles",308921,"Grooming actor",TRUE
+"Seychelles",308922,"Grooming actor",TRUE
+"Seychelles",308924,"Grooming actor",TRUE
+"Seychelles",308925,"Grooming receiver",TRUE
+"Seychelles",308926,"Grooming receiver",TRUE
+"Seychelles",308927,"Grooming receiver",TRUE
+"Seychelles",323167,"Grooming actor",TRUE
+"Seychelles",323168,"Grooming receiver",TRUE
+"Seychelles",323169,"Grooming receiver",TRUE
+"Seychelles",323170,"Grooming receiver",TRUE
+"Seychelles",323171,"Grooming receiver",TRUE
+"Seychelles",323172,"Grooming receiver",TRUE
+"Seychelles",323173,"Grooming receiver",TRUE
+"Seychelles",323175,"Resting",TRUE
+"Seychelles",323176,"Resting",TRUE
+"Seychelles",323180,"Resting",TRUE
+"Seychelles",323181,"Resting",TRUE
+"Seychelles",323184,"Resting",TRUE
+"Seychelles",323185,"Grooming actor",TRUE
+"Shongololo",109011,"Resting",TRUE
+"Shongololo",328969,"Eating",TRUE
+"Shongololo",328971,"Eating",TRUE
+"Shongololo",328972,"Eating",TRUE
+"Shongololo",328973,"Eating",TRUE
+"Shongololo",328974,"Eating",TRUE
+"Shongololo",328979,"Resting",TRUE
+"Shongololo",328983,"Foraging canopy",TRUE
+"Shongololo",330644,"Resting",TRUE
+"Shongololo",330645,"Resting",TRUE
+"Shongololo",330646,"Resting",TRUE
+"Shongololo",330647,"Resting",TRUE
+"Shongololo",330650,"Eating",TRUE
+"Shongololo",330653,"Resting",TRUE
+"Shongololo",330655,"Eating",TRUE
+"Shongololo",330656,"Eating",TRUE
+"Shongololo",330657,"Eating",TRUE
+"Shongololo",330658,"Eating",TRUE
+"Shongololo",330660,"Eating",TRUE
+"Shongololo",330661,"Eating",TRUE
+"Shongololo",330662,"Eating",TRUE
+"Shongololo",339522,"Eating",TRUE
+"Shongololo",339524,"Eating",TRUE
+"Shongololo",339525,"Eating",TRUE
+"Shongololo",339526,"Resting",TRUE
+"Shongololo",339544,"Eating",TRUE
+"Shongololo",339545,"Eating",TRUE
+"Shongololo",339547,"Eating",TRUE
+"Shongololo",339548,"Eating",TRUE
+"Shongololo",339549,"Eating",TRUE
+"Shongololo",339550,"Eating",TRUE
+"Shongololo",339551,"Eating",TRUE
+"Shongololo",339553,"Eating",TRUE
+"Shongololo",339554,"Eating",TRUE
+"Shongololo",339555,"Resting",TRUE
+"Umbrella",311998,"Eating",TRUE
+"Vry",53740,"Resting",TRUE
+"Vry",53741,"Resting",TRUE
+"Vry",53742,"Resting",TRUE
+"Vry",53743,"Resting",TRUE
+"Vry",53744,"Resting",TRUE
+"Vry",53745,"Resting",TRUE
+"Vry",53746,"Resting",TRUE
+"Vry",53747,"Resting",TRUE
+"Vry",53748,"Resting",TRUE
+"Vry",295021,"Grooming actor",TRUE
+"Vry",295023,"Grooming actor",TRUE
+"Vry",299015,"Grooming actor",TRUE
+"Vry",299016,"Grooming actor",TRUE
+"Vry",299019,"Grooming actor",TRUE
+"Vry",317131,"Grooming actor",TRUE
+"Vulkaan",79385,"Resting",TRUE
+"Vulkaan",79391,"Resting",TRUE
+"Vulkaan",79392,"Resting",TRUE
+"Vulkaan",310439,"Resting",TRUE
+"Vulkaan",310442,"Resting",TRUE
+"Vulkaan",310447,"Eating",TRUE
+"Vulkaan",310448,"Resting",TRUE
+"Vulkaan",310453,"Resting",TRUE
+"Vulkaan",337297,"Eating",TRUE
+"Vulkaan",337298,"Eating",TRUE
+"Vulkaan",337299,"Eating",TRUE
+"Vulkaan",337300,"Walking",TRUE
+"Vulkaan",337303,"Resting",TRUE
+"Vulkaan",337305,"Eating",TRUE
+"Vulkaan",337309,"Resting",TRUE
+"Vulkaan",337311,"Resting",TRUE
+"Vulkaan",337313,"Resting",TRUE
+"Vulkaan",337315,"Resting",TRUE
+"Vulkaan",337316,"Resting",TRUE
+"Vulkaan",342238,"Eating",TRUE
+"Vulkaan",342242,"Resting",TRUE
+"Vulkaan",342245,"Resting",TRUE
+"Vulkaan",342246,"Eating",TRUE
+"Vulkaan",342248,"Eating",TRUE
+"Vulkaan",342249,"Eating",TRUE
+"Vulkaan",342250,"Resting",TRUE
+"Vulkaan",342253,"Resting",TRUE
+"Vulkaan",345141,"Resting",TRUE
+"Vulkaan",345146,"Resting",TRUE
+"Vulkaan",345147,"Resting",TRUE
+"Vulkaan",345148,"Eating",TRUE
+"Vulkaan",345149,"Eating",TRUE
+"Vulkaan",345150,"Walking",TRUE
+"Vulkaan",345152,"Resting",TRUE
+"Vulkaan",345153,"Resting",TRUE
+"Vulkaan",357402,"Walking",TRUE
+"Vulkaan",357405,"Resting",TRUE
+"Vulkaan",357407,"Resting",TRUE
+"Vulkaan",357409,"Resting",TRUE
+"Vulkaan",357411,"Resting",TRUE
+"Vulkaan",357412,"Resting",TRUE
+"Vulkaan",357414,"Grooming actor",TRUE
+"Vulkaan",357418,"Resting",TRUE
+"Vulkaan",357420,"Eating",TRUE
+"Vulkaan",358463,"Resting",TRUE
+"Vulkaan",358466,"Walking",TRUE
+"Vulkaan",358468,"Resting",TRUE
+"Vulkaan",358469,"Resting",TRUE
+"Vulkaan",358470,"Resting",TRUE
+"Vulkaan",358471,"Resting",TRUE
+"Vulkaan",358472,"Resting",TRUE
+"Vulkaan",358478,"Resting",TRUE
+"Xian",74022,"Eating",TRUE
+"Xian",74023,"Resting",TRUE
+"Xian",74044,"Eating",TRUE
+"Xian",74045,"Eating",TRUE
+"Xian",74046,"Eating",TRUE
+"Xian",136210,"Eating",TRUE
+"Xian",136211,"Eating",TRUE
+"Xian",136212,"Eating",TRUE
+"Xian",136213,"Eating",TRUE
+"Xian",141072,"Resting",TRUE
+"Xian",141074,"Resting",TRUE
+"Xian",141075,"Resting",TRUE
+"Xian",175460,"Sleeping",TRUE
+"Xian",175461,"Resting",TRUE
+"Xian",175462,"Resting",TRUE
+"Xian",175463,"Sleeping",TRUE
+"Xian",175464,"Sleeping",TRUE
+"Xian",175465,"Resting",TRUE
+"Xian",175466,"Sleeping",TRUE
+"Xian",175468,"Resting",TRUE
+"Xian",175469,"Resting",TRUE
+"Xian",175470,"Resting",TRUE
+"Xian",175471,"Resting",TRUE
+"Xian",235711,"Eating",TRUE
+"Xian",319286,"Grooming actor",TRUE
+"Xian",321168,"Resting",TRUE
+"Xian",321169,"Resting",TRUE
+"Xian",321171,"Eating",TRUE
+"Xian",321175,"Resting",TRUE
+"Xian",321176,"Eating",TRUE
+"Xian",321179,"Resting",TRUE
+"Xian",327897,"Resting",TRUE
+"Xian",327899,"Resting",TRUE
+"Xian",327903,"Eating",TRUE
+"Xian",327904,"Eating",TRUE
+"Xian",327909,"Resting",TRUE
+"Xian",327910,"Resting",TRUE
+"Xian",327911,"Resting",TRUE
+"Xian",327912,"Eating",TRUE
+"Xiashan",286601,"Resting",TRUE
+"Xiashan",286603,"Resting",TRUE
+"Xiashan",286604,"Resting",TRUE
+"Xiashan",301055,"Resting",TRUE
+"Xiashan",301056,"Grooming actor",TRUE
+"Xiashan",301058,"Grooming receiver",TRUE
+"Xiashan",301059,"Grooming receiver",TRUE
+"Xiashan",301060,"Grooming receiver",TRUE
+"Xiashan",301061,"Grooming receiver",TRUE
+"Xiashan",301062,"Grooming actor",TRUE
+"Xiashan",301063,"Grooming actor",TRUE
+"Xiashan",301064,"Grooming actor",TRUE
+"Xiashan",310585,"Eating",TRUE
+"Xiashan",310586,"Eating",TRUE
+"Xiashan",310587,"Eating",TRUE
+"Xiashan",310588,"Eating",TRUE
+"Xinji",166809,"Resting",TRUE
+"Xinji",166812,"Resting",TRUE
+"Xinji",336633,"Grooming receiver",TRUE
+"Xinji",336634,"Resting",TRUE
+"Xinji",336635,"Eating",TRUE
+"Xinji",336636,"Eating",TRUE
+"Xinji",336637,"Eating",TRUE
+"Xinji",336638,"Eating",TRUE
+"Xinji",336639,"Eating",TRUE
+"Xinji",336640,"Eating",TRUE
+"Yamuna",66862,"Resting",TRUE
+"Yamuna",73510,"Grooming receiver",TRUE
+"Yamuna",73511,"Grooming actor",TRUE
+"Yamuna",73512,"Grooming actor",TRUE
+"Yamuna",73514,"Resting",TRUE
+"Yamuna",73517,"Walking",TRUE
+"Yamuna",75557,"Resting",TRUE
+"Yamuna",89856,"Resting",TRUE
+"Yamuna",89877,"Eating",TRUE
+"Yamuna",89878,"Eating",TRUE
+"Yamuna",89932,"Grooming receiver",TRUE
+"Yamuna",89934,"Resting",TRUE
+"Yamuna",89935,"Eating",TRUE
+"Yamuna",89937,"Eating",TRUE
+"Yamuna",89941,"Eating",TRUE
+"Yamuna",89942,"Resting",TRUE
+"Yamuna",89944,"Resting",TRUE
+"Yamuna",89945,"Resting",TRUE
+"Yamuna",91985,"Walking",TRUE
+"Yamuna",96600,"Resting",TRUE
+"Yamuna",96603,"Eating",TRUE
+"Yamuna",96634,"Grooming actor",TRUE
+"Yamuna",96636,"Grooming receiver",TRUE
+"Yamuna",129093,"Walking",TRUE
+"Yamuna",129095,"Walking",TRUE
+"Zeus",55065,"Resting",TRUE
+"Zeus",55066,"Grooming receiver",TRUE
+"Zeus",72359,"Resting",TRUE
+"Zeus",72360,"Resting",TRUE
+"Zeus",72364,"Eating",TRUE
+"Zeus",72365,"Resting",TRUE
+"Zeus",72368,"Eating",TRUE
+"Zeus",72369,"Resting",TRUE
+"Zeus",72370,"Resting",TRUE
+"Zeus",106034,"Eating",TRUE
+"Zeus",106035,"Eating",TRUE
+"Zeus",106036,"Eating",TRUE
+"Zeus",106037,"Eating",TRUE
+"Zeus",106038,"Eating",TRUE
+"Zeus",106039,"Eating",TRUE
+"Zeus",106041,"Resting",TRUE
+"Zeus",106042,"Resting",TRUE

@@ -1,0 +1,15 @@
+"comparison","metric","anova_type","term","Chisq","Pr(>Chisq)"
+"burst","precision","II","beh_rarity",8.27714754469941,0.004014714948651
+"burst","precision","II","burst",3.47229726568678,0.32437288635038
+"burst","recall","II","beh_rarity",82.6284047009113,9.9023791054046e-20
+"burst","recall","II","burst",0.557777527559682,0.906026452820058
+"correction","precision","II","beh_rarity",4.95107530976248,0.0841177517772133
+"correction","precision","II","correction_type",7.78827456851522,0.0203609325712964
+"correction","recall","II","beh_rarity",67.0094355175559,2.81245744326563e-15
+"correction","recall","II","correction_type",4.9989429777007,0.0821283929270672
+"model","precision","III","beh_rarity",13.5437604100764,0.00114553877701409
+"model","precision","III","model",1.38368958682492,0.994474963728111
+"model","precision","III","beh_rarity:model",74.0627579859667,1.91829146386851e-09
+"model","recall","III","beh_rarity",13.1969909383588,0.00136241629363356
+"model","recall","III","model",0.200095064259739,0.999996145992991
+"model","recall","III","beh_rarity:model",53.9983398436089,5.18874913356782e-06

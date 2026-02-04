@@ -1,0 +1,4 @@
+"model_type","anova_type","term","Chisq","Pr(>Chisq)"
+"Focal_HRB1Unc_TabB4Bas","III","source",15.1166290746887,0.000521753899919791
+"Focal_HRB1Unc_TabB4Bas","III","Final_behaviour",2845.33977438579,0
+"Focal_HRB1Unc_TabB4Bas","III","source:Final_behaviour",440.342895497341,3.90779543399269e-85

@@ -1,0 +1,9 @@
+class_index,class_name
+0,Eating
+1,Grooming actor
+2,Grooming receiver
+3,Resting
+4,Running
+5,Self-scratching
+6,Sleeping
+7,Walking

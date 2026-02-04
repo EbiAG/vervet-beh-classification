@@ -1,0 +1,7 @@
+"comparison","metric","model1","model2","chisq","p_value"
+"burst","precision","with_interaction","without_interaction",2.9332313165867,0.402034569019065
+"burst","recall","with_interaction","without_interaction",0.427776202656389,0.934446660126606
+"correction","precision","with_interaction","without_interaction",8.3023967427349,0.0811083802988326
+"correction","recall","with_interaction","without_interaction",3.98656705400427,0.407826853804992
+"model","precision","with_interaction","without_interaction",72.045717130678,4.36114853756784e-09
+"model","recall","with_interaction","without_interaction",53.8998464838924,5.3845219561923e-06

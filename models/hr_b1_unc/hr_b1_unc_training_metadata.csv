@@ -1,0 +1,2 @@
+model_name,model_type,training_date,num_classes,class_names,train_samples,valid_samples,train_loss,valid_loss,accuracy,roc_auc,balanced_acc,f1_score,precision,recall,training_time_seconds,epochs,lr_max
+hr_b1_unc,HydraROCKET,2025-12-08T18:07:52.390220,8,"['Eating', 'Grooming actor', 'Grooming receiver', 'Resting', 'Running', 'Self-scratching', 'Sleeping', 'Walking']",842,210,0.1704152524471283,0.8353809714317322,0.699999988079071,0.9445666724556008,0.44246276929407335,0.6887947665838823,0.6960742630385488,0.7,45.41177940368652,50,1.737800812406931e-05

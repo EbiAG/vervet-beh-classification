@@ -1,0 +1,2 @@
+model_name,model_type,training_date,num_classes,class_names,accuracy,balanced_accuracy,f1_score,precision,recall,train_samples,valid_samples
+tabpfn_b4_basal,TabPFN,2025-12-08T18:14:41.316868,8,"['Eating', 'Grooming actor', 'Grooming receiver', 'Resting', 'Running', 'Self-scratching', 'Sleeping', 'Walking']",0.7157534246575342,0.582284570729718,0.7049410638048434,0.7327271834483526,0.7157534246575342,3503,876
