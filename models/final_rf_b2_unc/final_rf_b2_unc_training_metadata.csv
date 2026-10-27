@@ -1,0 +1,2 @@
+model_name,model_type,training_date,data,n_windows,n_features,class_names,class_weight,n_estimators,seed,training_time_seconds
+final_rf_b2_unc,RandomForest,2026-10-21T09:31:38.216293,Burst_2 uncorrected,2147,60,"['Eating', 'Grooming actor', 'Grooming receiver', 'Resting', 'Running', 'Self-scratching', 'Sleeping', 'Walking']",balanced,100,42,0.7783892154693604

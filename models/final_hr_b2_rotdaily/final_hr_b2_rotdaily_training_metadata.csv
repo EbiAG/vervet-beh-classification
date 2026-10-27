@@ -1,0 +1,2 @@
+model_name,model_type,training_date,data,n_windows,class_names,class_weighted_loss,seed,epochs,lr_max,training_time_seconds
+final_hr_b2_rotdaily,HydraMultiRocket,2026-10-22T19:52:19.470197,Burst_2 rotdaily,2147,"['Eating', 'Grooming actor', 'Grooming receiver', 'Resting', 'Running', 'Self-scratching', 'Sleeping', 'Walking']",True,42,50,9.999999747378752e-06,85.1567656993866

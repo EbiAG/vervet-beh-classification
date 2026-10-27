@@ -306,5 +306,3 @@ data/raw/focal_sampling/acc/*.parquet
 data/raw/focal_sampling/features/*.parquet
 
 # Don't upload large csv files
-data/temp/plotting/focal_comparisons_hr_b2_rd_predictions.csv
-data/temp/plotting/focal_comparisons_hr_b3_rd_predictions.csv
