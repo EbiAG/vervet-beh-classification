@@ -1,0 +1,1921 @@
+burst,correction_type,target,held_out_individual,n_test_samples,model,actual_label,predicted_label,count
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Eating,7
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Grooming actor,3
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Eating,Walking,1
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Grooming actor,4
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Grooming actor,2
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Grooming receiver,4
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Resting,9
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Sleeping,1
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Running,1
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Sleeping,3
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Running,2
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Aarhus,50,TabPFN,Walking,Walking,8
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Eating,10
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Grooming actor,3
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Resting,1
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Self-scratching,6
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Eating,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Grooming actor,12
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Grooming receiver,5
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Resting,2
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Grooming receiver,10
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Resting,2
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Sleeping,3
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Grooming receiver,4
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Resting,26
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Sleeping,6
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Resting,1
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Sleeping,4
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Running,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Self-scratching,2
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Furry Glen,102,TabPFN,Walking,Walking,3
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Eating,11
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Grooming actor,3
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Resting,2
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Self-scratching,6
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Eating,Walking,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Eating,6
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Grooming actor,21
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Self-scratching,2
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming actor,Walking,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Eating,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Grooming actor,4
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Grooming receiver,10
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Resting,4
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Grooming actor,3
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Resting,2
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Sleeping,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Self-scratching,Walking,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Eating,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Running,1
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Mieles,86,TabPFN,Walking,Walking,1
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Eating,15
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Grooming actor,5
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Resting,2
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Self-scratching,11
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Eating,Walking,10
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Eating,3
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Grooming actor,5
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Resting,34
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Self-scratching,6
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Sleeping,4
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Self-scratching,Walking,1
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Sleeping,6
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Eating,1
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Running,2
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Self-scratching,5
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Nakhu,127,TabPFN,Walking,Walking,17
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Eating,10
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Grooming actor,5
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Resting,3
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Self-scratching,3
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Eating,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Eating,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Resting,3
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Eating,1
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Eating,2
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Running,1
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ndawanya,30,TabPFN,Walking,Walking,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Eating,5
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Resting,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Eating,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Resting,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Resting,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Grooming receiver,3
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Resting,19
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Sleeping,2
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Running,1
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Running,2
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Self-scratching,2
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Okefenokee,41,TabPFN,Walking,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Eating,20
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Resting,4
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Self-scratching,9
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Eating,Walking,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Eating,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Resting,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Grooming receiver,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Sleeping,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Eating,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Grooming actor,2
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Resting,23
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Sleeping,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Eating,1
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Running,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Self-scratching,2
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Pomelo,76,TabPFN,Walking,Walking,6
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Eating,12
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Grooming actor,6
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Resting,3
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Self-scratching,2
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Eating,Walking,2
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Resting,1
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Grooming receiver,7
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Eating,2
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Grooming receiver,7
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Resting,8
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Sleeping,2
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Grooming receiver,1
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Sleeping,3
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Eating,2
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Running,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Self-scratching,6
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Ratel,70,TabPFN,Walking,Walking,3
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Eating,6
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Grooming actor,2
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Resting,3
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Self-scratching,10
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Eating,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Eating,5
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Grooming actor,6
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Resting,4
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Grooming receiver,6
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Resting,4
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Sleeping,3
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Grooming actor,2
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Resting,33
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Running,2
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Running,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Seychelles,94,TabPFN,Walking,Walking,4
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Eating,21
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Grooming actor,2
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Self-scratching,8
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Eating,Walking,3
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Grooming actor,3
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Resting,8
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Self-scratching,4
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Sleeping,2
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Running,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Shongololo,56,TabPFN,Walking,Walking,2
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Eating,15
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Resting,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Self-scratching,4
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Eating,Walking,3
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Eating,1
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Eating,5
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Grooming actor,7
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Resting,33
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Self-scratching,4
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Resting,1
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Running,1
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Self-scratching,4
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Vulkaan,96,TabPFN,Walking,Walking,15
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Eating,13
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Grooming actor,6
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Self-scratching,4
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Eating,Walking,1
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Grooming actor,7
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Grooming receiver,12
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Resting,13
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Self-scratching,1
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Grooming receiver,3
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Sleeping,2
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Running,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Self-scratching,3
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Xian,72,TabPFN,Walking,Walking,5
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Eating,2
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Self-scratching,7
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Eating,Walking,2
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Eating,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Grooming actor,3
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Grooming receiver,3
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Sleeping,1
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Eating,1
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Grooming actor,6
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Grooming receiver,5
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Resting,6
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Self-scratching,2
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Eating,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Running,Walking,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Eating,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Running,1
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,Yamuna,47,TabPFN,Walking,Walking,7
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Eating,13
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Grooming actor,5
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Resting,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Eating,Walking,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Eating,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Grooming actor,5
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Resting,2
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Resting,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Eating,2
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Grooming actor,6
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Grooming receiver,4
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Resting,23
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Running,1
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Sleeping,6
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Eating,3
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Running,3
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Self-scratching,3
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Aarhus,100,TabPFN,Walking,Walking,12
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Eating,21
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Grooming actor,9
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Resting,3
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Self-scratching,6
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Eating,Walking,3
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Eating,2
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Grooming actor,16
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Resting,15
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Grooming receiver,18
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Resting,5
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Sleeping,7
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Eating,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Resting,51
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Sleeping,16
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Eating,2
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Self-scratching,4
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Resting,1
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Sleeping,6
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Eating,2
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Running,1
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Furry Glen,208,TabPFN,Walking,Walking,7
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Eating,11
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Running,1
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Self-scratching,5
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Eating,Walking,5
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Resting,9
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Kommunis,43,TabPFN,Walking,Walking,4
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Eating,29
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Grooming actor,6
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Resting,3
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Self-scratching,6
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Eating,Walking,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Eating,11
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Grooming actor,39
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Resting,4
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Self-scratching,7
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming actor,Walking,1
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Eating,1
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Grooming actor,4
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Grooming receiver,21
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Resting,10
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Eating,2
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Grooming actor,4
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Grooming receiver,5
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Resting,7
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Sleeping,2
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Eating,1
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Self-scratching,3
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Eating,4
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Mieles,175,TabPFN,Walking,Walking,2
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Eating,44
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Grooming actor,10
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Resting,11
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Self-scratching,7
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Eating,Walking,14
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Resting,1
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Eating,13
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Grooming actor,14
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Resting,72
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Sleeping,4
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Self-scratching,6
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Resting,1
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Sleeping,14
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Eating,3
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Running,8
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Self-scratching,4
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Nakhu,266,TabPFN,Walking,Walking,36
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Eating,22
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Grooming actor,9
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Resting,6
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Eating,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Resting,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Eating,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Resting,5
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Running,1
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Eating,2
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ndawanya,54,TabPFN,Walking,Walking,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Eating,9
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Resting,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Eating,Walking,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Eating,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Resting,3
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Resting,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Resting,39
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Sleeping,4
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Running,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Running,2
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Okefenokee,85,TabPFN,Walking,Walking,4
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Eating,45
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Resting,3
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Self-scratching,12
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Eating,Walking,8
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Eating,1
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Resting,1
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Resting,2
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Sleeping,3
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Eating,4
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Grooming receiver,8
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Resting,42
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Sleeping,2
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Running,Walking,1
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Eating,1
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Pomelo,159,TabPFN,Walking,Walking,13
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Eating,26
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Grooming actor,16
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Resting,5
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Eating,Walking,3
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Resting,2
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Grooming receiver,15
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Grooming actor,12
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Grooming receiver,9
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Resting,14
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Sleeping,2
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Self-scratching,3
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Sleeping,7
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Eating,5
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Running,2
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Ratel,136,TabPFN,Walking,Walking,9
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Eating,26
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Grooming actor,4
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Resting,3
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Self-scratching,8
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Eating,Walking,3
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Eating,14
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Grooming actor,12
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Resting,6
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Grooming receiver,14
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Resting,8
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Sleeping,4
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Eating,6
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Grooming actor,5
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Resting,60
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Running,2
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Eating,1
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Running,3
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Seychelles,190,TabPFN,Walking,Walking,6
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Eating,43
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Grooming actor,4
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Resting,2
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Self-scratching,8
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Eating,Walking,7
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Resting,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Grooming actor,7
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Resting,18
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Sleeping,2
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Running,1
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Self-scratching,5
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Eating,3
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Shongololo,108,TabPFN,Walking,Walking,4
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Eating,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Resting,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Eating,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Eating,2
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Grooming actor,11
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Resting,1
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Resting,16
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vry,43,TabPFN,Walking,Walking,5
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Eating,33
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Resting,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Self-scratching,3
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Eating,Walking,6
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Eating,1
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Resting,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Eating,13
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Grooming actor,17
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Resting,65
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Self-scratching,7
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Running,1
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Eating,4
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Resting,1
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Self-scratching,6
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Eating,4
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Resting,1
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Running,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Vulkaan,202,TabPFN,Walking,Walking,34
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Eating,17
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Grooming actor,18
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Self-scratching,6
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Eating,Walking,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Grooming actor,17
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Grooming receiver,21
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Resting,23
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Self-scratching,3
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Grooming receiver,9
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Running,1
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Self-scratching,5
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xian,143,TabPFN,Walking,Walking,15
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Eating,4
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Grooming actor,4
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Resting,2
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Eating,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Grooming actor,8
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Resting,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Grooming actor,2
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Grooming receiver,4
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Sleeping,2
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Eating,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Resting,5
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Eating,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Running,1
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Xiashan,42,TabPFN,Walking,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Eating,7
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Resting,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Self-scratching,10
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Eating,Walking,5
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Grooming actor,4
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Resting,1
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Grooming receiver,6
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Sleeping,1
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Grooming actor,12
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Grooming receiver,14
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Resting,8
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Running,5
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Yamuna,96,TabPFN,Walking,Walking,13
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Eating,13
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Resting,1
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Running,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Self-scratching,3
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Eating,Walking,4
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Eating,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Grooming actor,1
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Resting,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Resting,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Eating,1
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Grooming actor,3
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Grooming receiver,6
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Resting,12
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Running,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Self-scratching,1
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Eating,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Resting,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Running,1
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Running,Walking,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Eating,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Self-scratching,Walking,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Eating,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Running,1
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,Zeus,52,TabPFN,Walking,Walking,2

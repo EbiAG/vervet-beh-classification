@@ -19,9 +19,10 @@ dependencies:
   - pillow=10.4.0
   - pyyaml=6.0.2
   - requests=2.32.3
+  - optuna=4.9.0
   - pip
   - pip:
-      - tabpfn==2.0.1
+      - tabpfn==2.0.5
       - tabpfn-extensions==0.0.4
       - einops==0.8.0
       - huggingface-hub==0.27.1

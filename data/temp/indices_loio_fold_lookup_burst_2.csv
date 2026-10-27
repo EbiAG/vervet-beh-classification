@@ -1,0 +1,2148 @@
+burst,Ind_ID,new_burst,burst_id,behaviour,activity,group_label,fold
+burst_2,Vry,107478,53739,Resting,Inactive,Resting,Vry
+burst_2,Vry,107479,53740,Resting,Inactive,Resting,Vry
+burst_2,Vry,107480,53740,Resting,Inactive,Resting,Vry
+burst_2,Vry,107481,53741,Resting,Inactive,Resting,Vry
+burst_2,Vry,107482,53741,Resting,Inactive,Resting,Vry
+burst_2,Vry,107483,53742,Resting,Inactive,Resting,Vry
+burst_2,Vry,107484,53742,Resting,Inactive,Resting,Vry
+burst_2,Vry,107487,53744,Resting,Inactive,Resting,Vry
+burst_2,Vry,107488,53744,Resting,Inactive,Resting,Vry
+burst_2,Vry,107489,53745,Resting,Inactive,Resting,Vry
+burst_2,Vry,107490,53745,Resting,Inactive,Resting,Vry
+burst_2,Vry,107491,53746,Resting,Inactive,Resting,Vry
+burst_2,Vry,107492,53746,Resting,Inactive,Resting,Vry
+burst_2,Vry,107493,53747,Resting,Inactive,Resting,Vry
+burst_2,Vry,107494,53747,Resting,Inactive,Resting,Vry
+burst_2,Vry,107495,53748,Resting,Inactive,Resting,Vry
+burst_2,Vry,107496,53748,Resting,Inactive,Resting,Vry
+burst_2,Zeus,110129,55065,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,110130,55065,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,110131,55066,Grooming receiver,Inactive,Grooming receiver,Zeus
+burst_2,Zeus,110132,55066,Grooming receiver,Inactive,Grooming receiver,Zeus
+burst_2,Zeus,110133,55067,Resting,Inactive,Grooming actor,Zeus
+burst_2,Zeus,110134,55067,Grooming actor,Active,Grooming actor,Zeus
+burst_2,Zeus,110135,55068,Grooming receiver,Inactive,Grooming receiver,Zeus
+burst_2,Ratel,124655,62328,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,124656,62328,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,124657,62329,Eating,Active,Eating,Ratel
+burst_2,Ratel,124658,62329,Eating,Active,Eating,Ratel
+burst_2,Ratel,124659,62330,Resting,Inactive,Eating,Ratel
+burst_2,Ratel,124660,62330,Eating,Active,Eating,Ratel
+burst_2,Ratel,124661,62331,Walking,Active,Walking,Ratel
+burst_2,Ratel,124663,62332,Eating,Active,Eating,Ratel
+burst_2,Ratel,124664,62332,Eating,Active,Eating,Ratel
+burst_2,Ratel,124665,62333,Walking,Active,Walking,Ratel
+burst_2,Ratel,124666,62333,Walking,Active,Walking,Ratel
+burst_2,Ratel,124723,62362,Eating,Active,Eating,Ratel
+burst_2,Ratel,124724,62362,Eating,Active,Eating,Ratel
+burst_2,Ratel,124725,62363,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,124726,62363,Self-scratching,Active,Resting,Ratel
+burst_2,Ratel,124727,62364,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,124728,62364,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,124809,62405,Eating,Active,Eating,Ratel
+burst_2,Ratel,124810,62405,Eating,Active,Eating,Ratel
+burst_2,Ratel,124811,62406,Eating,Active,Eating,Ratel
+burst_2,Ratel,124812,62406,Eating,Active,Eating,Ratel
+burst_2,Ratel,124925,62463,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,124926,62463,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,124927,62464,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,124928,62464,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,124929,62465,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,124930,62465,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Furry Glen,133671,66836,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133672,66836,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133673,66837,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133674,66837,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133675,66838,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133676,66838,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133677,66839,Grooming receiver,Inactive,Grooming actor,Furry Glen
+burst_2,Furry Glen,133678,66839,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133679,66840,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133680,66840,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133681,66841,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133682,66841,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133683,66842,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133684,66842,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133686,66843,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133687,66844,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133688,66844,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133689,66845,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133690,66845,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133691,66846,Resting,Inactive,Grooming actor,Furry Glen
+burst_2,Furry Glen,133692,66846,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133693,66847,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133694,66847,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133695,66848,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133696,66848,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,133697,66849,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,133698,66849,Resting,Inactive,Grooming actor,Furry Glen
+burst_2,Furry Glen,133699,66850,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133700,66850,Self-scratching,Active,Resting,Furry Glen
+burst_2,Furry Glen,133701,66851,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133702,66851,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133703,66852,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133704,66852,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133705,66853,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,133706,66853,Self-scratching,Active,Eating,Furry Glen
+burst_2,Furry Glen,133707,66854,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,133708,66854,Resting,Inactive,Resting,Furry Glen
+burst_2,Yamuna,133719,66860,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,133720,66860,Resting,Inactive,Eating,Yamuna
+burst_2,Yamuna,133721,66861,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,133722,66861,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,133723,66862,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,133724,66862,Resting,Inactive,Resting,Yamuna
+burst_2,Ratel,138121,69061,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138123,69062,Walking,Active,Resting,Ratel
+burst_2,Ratel,138124,69062,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138126,69063,Walking,Active,Walking,Ratel
+burst_2,Ratel,138127,69064,Walking,Active,Eating,Ratel
+burst_2,Ratel,138128,69064,Eating,Active,Eating,Ratel
+burst_2,Ratel,138129,69065,Eating,Active,Eating,Ratel
+burst_2,Ratel,138130,69065,Eating,Active,Eating,Ratel
+burst_2,Ratel,138131,69066,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138132,69066,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138133,69067,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138134,69067,Self-scratching,Active,Resting,Ratel
+burst_2,Ratel,138135,69068,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138136,69068,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,138241,69121,Eating,Active,Eating,Ratel
+burst_2,Ratel,138243,69122,Eating,Active,Eating,Ratel
+burst_2,Ratel,138244,69122,Eating,Active,Eating,Ratel
+burst_2,Ratel,138245,69123,Walking,Active,Eating,Ratel
+burst_2,Ratel,138246,69123,Eating,Active,Eating,Ratel
+burst_2,Aarhus,141443,70722,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141444,70722,Walking,Active,Resting,Aarhus
+burst_2,Aarhus,141445,70723,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141446,70723,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141447,70724,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141448,70724,Walking,Active,Eating,Aarhus
+burst_2,Aarhus,141449,70725,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,141450,70725,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,141452,70726,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,141453,70727,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141454,70727,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141455,70728,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141456,70728,Walking,Active,Resting,Aarhus
+burst_2,Aarhus,141457,70729,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141458,70729,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141459,70730,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141460,70730,Resting,Inactive,Eating,Aarhus
+burst_2,Aarhus,141461,70731,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141462,70731,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141463,70732,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141464,70732,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141465,70733,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141466,70733,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141467,70734,Walking,Active,Eating,Aarhus
+burst_2,Aarhus,141468,70734,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141469,70735,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141470,70735,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,141575,70788,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141576,70788,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,141577,70789,Walking,Active,Resting,Aarhus
+burst_2,Aarhus,141578,70789,Resting,Inactive,Resting,Aarhus
+burst_2,Seychelles,141853,70927,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,141854,70927,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,141855,70928,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,141856,70928,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,141859,70930,Running,Active,Resting,Seychelles
+burst_2,Seychelles,141860,70930,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,141861,70931,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141862,70931,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141863,70932,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141864,70932,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141865,70933,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,141866,70933,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,141867,70934,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141868,70934,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141869,70935,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,141870,70935,Running,Active,Eating,Seychelles
+burst_2,Zeus,143192,71596,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,143193,71597,Walking,Active,Walking,Zeus
+burst_2,Zeus,144715,72358,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144717,72359,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144718,72359,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144719,72360,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144720,72360,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144721,72361,Walking,Active,Walking,Zeus
+burst_2,Zeus,144722,72361,Walking,Active,Walking,Zeus
+burst_2,Zeus,144726,72363,Eating,Active,Eating,Zeus
+burst_2,Zeus,144727,72364,Eating,Active,Eating,Zeus
+burst_2,Zeus,144728,72364,Eating,Active,Eating,Zeus
+burst_2,Zeus,144729,72365,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144730,72365,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144731,72366,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144732,72366,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144733,72367,Resting,Inactive,Eating,Zeus
+burst_2,Zeus,144734,72367,Eating,Active,Eating,Zeus
+burst_2,Zeus,144735,72368,Eating,Active,Eating,Zeus
+burst_2,Zeus,144736,72368,Eating,Active,Eating,Zeus
+burst_2,Zeus,144737,72369,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144738,72369,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144739,72370,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,144740,72370,Resting,Inactive,Resting,Zeus
+burst_2,Ratel,146175,73088,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,146176,73088,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,146177,73089,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,146178,73089,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,146179,73090,Eating,Active,Eating,Ratel
+burst_2,Ratel,146180,73090,Eating,Active,Eating,Ratel
+burst_2,Ratel,146181,73091,Walking,Active,Walking,Ratel
+burst_2,Ratel,146182,73091,Walking,Active,Walking,Ratel
+burst_2,Yamuna,147015,73508,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,147017,73509,Self-scratching,Active,Resting,Yamuna
+burst_2,Yamuna,147018,73509,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,147019,73510,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,147020,73510,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,147021,73511,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,147022,73511,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,147023,73512,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,147024,73512,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,147025,73513,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,147026,73513,Resting,Inactive,Grooming actor,Yamuna
+burst_2,Yamuna,147030,73515,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,147031,73516,Walking,Active,Resting,Yamuna
+burst_2,Yamuna,147032,73516,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,147033,73517,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,147034,73517,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,147206,73603,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,147216,73608,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,147220,73610,Walking,Active,Walking,Yamuna
+burst_2,Furry Glen,147257,73629,Self-scratching,Active,Resting,Furry Glen
+burst_2,Furry Glen,147258,73629,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,147259,73630,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,147260,73630,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,147261,73631,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,147262,73631,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Xian,148037,74019,Eating,Active,Eating,Xian
+burst_2,Xian,148038,74019,Eating,Active,Eating,Xian
+burst_2,Xian,148040,74020,Resting,Inactive,Resting,Xian
+burst_2,Xian,148041,74021,Eating,Active,Eating,Xian
+burst_2,Xian,148042,74021,Walking,Active,Eating,Xian
+burst_2,Xian,148043,74022,Eating,Active,Eating,Xian
+burst_2,Xian,148044,74022,Eating,Active,Eating,Xian
+burst_2,Xian,148045,74023,Resting,Inactive,Resting,Xian
+burst_2,Xian,148046,74023,Resting,Inactive,Resting,Xian
+burst_2,Xian,148087,74044,Eating,Active,Eating,Xian
+burst_2,Xian,148088,74044,Eating,Active,Eating,Xian
+burst_2,Xian,148089,74045,Eating,Active,Eating,Xian
+burst_2,Xian,148090,74045,Eating,Active,Eating,Xian
+burst_2,Xian,148091,74046,Eating,Active,Eating,Xian
+burst_2,Xian,148092,74046,Eating,Active,Eating,Xian
+burst_2,Furry Glen,151069,75535,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,151070,75535,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Yamuna,151113,75557,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,151114,75557,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,151115,75558,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,151116,75558,Walking,Active,Walking,Yamuna
+burst_2,Furry Glen,153097,76549,Sleeping,Inactive,Sleeping,Furry Glen
+burst_2,Furry Glen,153098,76549,Sleeping,Inactive,Sleeping,Furry Glen
+burst_2,Furry Glen,153109,76555,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,153110,76555,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,153111,76556,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,153112,76556,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,153113,76557,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,153114,76557,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,153117,76559,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,153118,76559,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Aarhus,154815,77408,Grooming receiver,Inactive,Grooming receiver,Aarhus
+burst_2,Aarhus,154816,77408,Grooming receiver,Inactive,Grooming receiver,Aarhus
+burst_2,Aarhus,154897,77449,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,154898,77449,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,154899,77450,Walking,Active,Resting,Aarhus
+burst_2,Aarhus,154900,77450,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,154901,77451,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,154902,77451,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,154903,77452,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,154904,77452,Eating,Active,Eating,Aarhus
+burst_2,Okefenokee,154919,77460,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,154920,77460,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,154921,77461,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,154922,77461,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,154923,77462,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,154924,77462,Self-scratching,Active,Resting,Okefenokee
+burst_2,Okefenokee,154925,77463,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,154926,77463,Resting,Inactive,Resting,Okefenokee
+burst_2,Aarhus,155069,77535,Resting,Inactive,Eating,Aarhus
+burst_2,Aarhus,155070,77535,Eating,Active,Eating,Aarhus
+burst_2,Vulkaan,158765,79383,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,158766,79383,Resting,Inactive,Eating,Vulkaan
+burst_2,Vulkaan,158767,79384,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,158768,79384,Self-scratching,Active,Eating,Vulkaan
+burst_2,Vulkaan,158769,79385,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,158770,79385,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,158774,79387,Self-scratching,Active,Self-scratching,Vulkaan
+burst_2,Vulkaan,158781,79391,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,158782,79391,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,158783,79392,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,158784,79392,Resting,Inactive,Resting,Vulkaan
+burst_2,Aarhus,158787,79394,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,158788,79394,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,158789,79395,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,158791,79396,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,158865,79433,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,158866,79433,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,158867,79434,Eating,Active,Eating,Aarhus
+burst_2,Okefenokee,158911,79456,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,158912,79456,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,158913,79457,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158914,79457,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158915,79458,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158916,79458,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158917,79459,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158918,79459,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158921,79461,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,158922,79461,Resting,Inactive,Resting,Okefenokee
+burst_2,Aarhus,158971,79486,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,158972,79486,Eating,Active,Eating,Aarhus
+burst_2,Aarhus,158973,79487,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,158974,79487,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,158975,79488,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,158976,79488,Walking,Active,Walking,Aarhus
+burst_2,Okefenokee,159055,79528,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,159056,79528,Resting,Inactive,Resting,Okefenokee
+burst_2,Aarhus,160767,80384,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,160768,80384,Walking,Active,Walking,Aarhus
+burst_2,Okefenokee,160956,80478,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Okefenokee,160957,80479,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Okefenokee,160958,80479,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Okefenokee,160959,80480,Grooming receiver,Inactive,Grooming receiver,Okefenokee
+burst_2,Okefenokee,160960,80480,Grooming receiver,Inactive,Grooming receiver,Okefenokee
+burst_2,Okefenokee,160961,80481,Resting,Inactive,Grooming actor,Okefenokee
+burst_2,Okefenokee,160962,80481,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Okefenokee,160963,80482,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Furry Glen,162669,81335,Sleeping,Inactive,Sleeping,Furry Glen
+burst_2,Furry Glen,162670,81335,Sleeping,Inactive,Sleeping,Furry Glen
+burst_2,Furry Glen,162671,81336,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,162672,81336,Sleeping,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,162673,81337,Sleeping,Inactive,Self-scratching,Furry Glen
+burst_2,Furry Glen,162674,81337,Self-scratching,Active,Self-scratching,Furry Glen
+burst_2,Furry Glen,162675,81338,Sleeping,Inactive,Sleeping,Furry Glen
+burst_2,Furry Glen,162676,81338,Sleeping,Inactive,Sleeping,Furry Glen
+burst_2,Furry Glen,162821,81411,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,162822,81411,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Aarhus,170465,85233,Sleeping,Inactive,Sleeping,Aarhus
+burst_2,Aarhus,170466,85233,Sleeping,Inactive,Sleeping,Aarhus
+burst_2,Aarhus,170468,85234,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,170469,85235,Sleeping,Inactive,Sleeping,Aarhus
+burst_2,Aarhus,170470,85235,Sleeping,Inactive,Sleeping,Aarhus
+burst_2,Aarhus,170471,85236,Sleeping,Inactive,Sleeping,Aarhus
+burst_2,Aarhus,170472,85236,Sleeping,Inactive,Sleeping,Aarhus
+burst_2,Aarhus,170617,85309,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,170618,85309,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,170619,85310,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,170620,85310,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,170621,85311,Grooming receiver,Inactive,Grooming receiver,Aarhus
+burst_2,Aarhus,170622,85311,Grooming receiver,Inactive,Grooming receiver,Aarhus
+burst_2,Nakhu,174745,87373,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,174746,87373,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,174753,87377,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,174754,87377,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,174755,87378,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174756,87378,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174757,87379,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174758,87379,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174837,87419,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174838,87419,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174839,87420,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,174840,87420,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174841,87421,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174842,87421,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174843,87422,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174844,87422,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174845,87423,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,174846,87423,Eating,Active,Eating,Nakhu
+burst_2,Pomelo,177105,88553,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177106,88553,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177107,88554,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177108,88554,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177109,88555,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177110,88555,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177111,88556,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177112,88556,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177113,88557,Resting,Inactive,Eating,Pomelo
+burst_2,Pomelo,177114,88557,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177115,88558,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177116,88558,Self-scratching,Active,Eating,Pomelo
+burst_2,Pomelo,177117,88559,Grooming actor,Active,Grooming actor,Pomelo
+burst_2,Pomelo,177118,88559,Grooming actor,Active,Grooming actor,Pomelo
+burst_2,Pomelo,177119,88560,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,177120,88560,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,177121,88561,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177122,88561,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177138,88569,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177139,88570,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177140,88570,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177141,88571,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177142,88571,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177143,88572,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177144,88572,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177145,88573,Walking,Active,Eating,Pomelo
+burst_2,Pomelo,177146,88573,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,177147,88574,Resting,Inactive,Resting,Pomelo
+burst_2,Ratel,178712,89356,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178713,89357,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178714,89357,Sleeping,Inactive,Resting,Ratel
+burst_2,Ratel,178715,89358,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178716,89358,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178717,89359,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178718,89359,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178719,89360,Sleeping,Inactive,Sleeping,Ratel
+burst_2,Ratel,178720,89360,Sleeping,Inactive,Sleeping,Ratel
+burst_2,Ratel,178725,89363,Sleeping,Inactive,Sleeping,Ratel
+burst_2,Ratel,178726,89363,Sleeping,Inactive,Sleeping,Ratel
+burst_2,Ratel,178727,89364,Sleeping,Inactive,Sleeping,Ratel
+burst_2,Ratel,178728,89364,Sleeping,Inactive,Sleeping,Ratel
+burst_2,Ratel,178729,89365,Sleeping,Inactive,Resting,Ratel
+burst_2,Ratel,178730,89365,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178779,89390,Resting,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178780,89390,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178781,89391,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178782,89391,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178783,89392,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178784,89392,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178785,89393,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178786,89393,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178787,89394,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178788,89394,Grooming receiver,Inactive,Grooming receiver,Ratel
+burst_2,Ratel,178789,89395,Grooming actor,Active,Grooming actor,Ratel
+burst_2,Ratel,178790,89395,Grooming actor,Active,Grooming actor,Ratel
+burst_2,Ratel,178791,89396,Grooming actor,Active,Grooming actor,Ratel
+burst_2,Ratel,178792,89396,Grooming actor,Active,Grooming actor,Ratel
+burst_2,Ratel,178793,89397,Self-scratching,Active,Resting,Ratel
+burst_2,Ratel,178794,89397,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,178921,89461,Walking,Active,Walking,Ratel
+burst_2,Ratel,178922,89461,Walking,Active,Walking,Ratel
+burst_2,Ratel,178923,89462,Walking,Active,Eating,Ratel
+burst_2,Ratel,178924,89462,Eating,Active,Eating,Ratel
+burst_2,Yamuna,179711,89856,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179712,89856,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179753,89877,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179754,89877,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179755,89878,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179756,89878,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179863,89932,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,179864,89932,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,179865,89933,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179867,89934,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179868,89934,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179869,89935,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179870,89935,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179872,89936,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179873,89937,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179874,89937,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179879,89940,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179880,89940,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179881,89941,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179882,89941,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179883,89942,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179884,89942,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179885,89943,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179886,89943,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,179887,89944,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179888,89944,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179889,89945,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,179890,89945,Resting,Inactive,Resting,Yamuna
+burst_2,Furry Glen,183947,91974,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,183948,91974,Walking,Active,Eating,Furry Glen
+burst_2,Furry Glen,183949,91975,Walking,Active,Eating,Furry Glen
+burst_2,Furry Glen,183950,91975,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,183951,91976,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,183952,91976,Walking,Active,Eating,Furry Glen
+burst_2,Furry Glen,183953,91977,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,183954,91977,Eating,Active,Eating,Furry Glen
+burst_2,Yamuna,183963,91982,Resting,Inactive,Eating,Yamuna
+burst_2,Yamuna,183964,91982,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,183965,91983,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,183967,91984,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,183968,91984,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,183969,91985,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,183970,91985,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,184027,92014,Resting,Inactive,Eating,Yamuna
+burst_2,Yamuna,184028,92014,Eating,Active,Eating,Yamuna
+burst_2,Furry Glen,184083,92042,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,184085,92043,Walking,Active,Eating,Furry Glen
+burst_2,Furry Glen,184086,92043,Eating,Active,Eating,Furry Glen
+burst_2,Aarhus,187474,93737,Walking,Active,Walking,Aarhus
+burst_2,Okefenokee,187547,93774,Running,Active,Running,Okefenokee
+burst_2,Okefenokee,187548,93774,Walking,Active,Running,Okefenokee
+burst_2,Aarhus,187553,93777,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,187554,93777,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,187555,93778,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,187556,93778,Grooming actor,Active,Grooming actor,Aarhus
+burst_2,Aarhus,187557,93779,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,187558,93779,Resting,Inactive,Resting,Aarhus
+burst_2,Okefenokee,187813,93907,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,187814,93907,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,187815,93908,Walking,Active,Walking,Okefenokee
+burst_2,Okefenokee,187816,93908,Walking,Active,Walking,Okefenokee
+burst_2,Okefenokee,187817,93909,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Okefenokee,187818,93909,Grooming actor,Active,Grooming actor,Okefenokee
+burst_2,Heelal,188021,94011,Resting,Inactive,Resting,train_only
+burst_2,Heelal,188022,94011,Resting,Inactive,Resting,train_only
+burst_2,Heelal,188023,94012,Walking,Active,Walking,train_only
+burst_2,Aarhus,191925,95963,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,191926,95963,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,191927,95964,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,191928,95964,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,191929,95965,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,191930,95965,Walking,Active,Walking,Aarhus
+burst_2,Yamuna,193197,96599,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193198,96599,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193199,96600,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193200,96600,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193201,96601,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193202,96601,Walking,Active,Resting,Yamuna
+burst_2,Yamuna,193203,96602,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,193204,96602,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,193205,96603,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,193206,96603,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,193207,96604,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,193267,96634,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,193268,96634,Grooming actor,Active,Grooming actor,Yamuna
+burst_2,Yamuna,193269,96635,Resting,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,193270,96635,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,193271,96636,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,193272,96636,Grooming receiver,Inactive,Grooming receiver,Yamuna
+burst_2,Yamuna,193274,96637,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193363,96682,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193364,96682,Resting,Inactive,Resting,Yamuna
+burst_2,Yamuna,193365,96683,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,193366,96683,Walking,Active,Walking,Yamuna
+burst_2,Furry Glen,193407,96704,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193408,96704,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193409,96705,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193410,96705,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193411,96706,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193412,96706,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193413,96707,Self-scratching,Active,Resting,Furry Glen
+burst_2,Furry Glen,193414,96707,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193415,96708,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,193416,96708,Walking,Active,Resting,Furry Glen
+burst_2,Furry Glen,193417,96709,Walking,Active,Eating,Furry Glen
+burst_2,Furry Glen,193418,96709,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,193419,96710,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,193420,96710,Eating,Active,Eating,Furry Glen
+burst_2,Okefenokee,201167,100584,Walking,Active,Walking,Okefenokee
+burst_2,Okefenokee,201169,100585,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,201170,100585,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,201171,100586,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,201172,100586,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,201173,100587,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,201174,100587,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,201175,100588,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,201176,100588,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,201177,100589,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,201178,100589,Eating,Active,Eating,Okefenokee
+burst_2,Aarhus,201196,100598,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,201198,100599,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,201199,100600,Resting,Inactive,Resting,Aarhus
+burst_2,Zeus,212063,106032,Eating,Active,Eating,Zeus
+burst_2,Zeus,212064,106032,Eating,Active,Eating,Zeus
+burst_2,Zeus,212067,106034,Eating,Active,Eating,Zeus
+burst_2,Zeus,212068,106034,Eating,Active,Eating,Zeus
+burst_2,Zeus,212069,106035,Eating,Active,Eating,Zeus
+burst_2,Zeus,212070,106035,Eating,Active,Eating,Zeus
+burst_2,Zeus,212071,106036,Eating,Active,Eating,Zeus
+burst_2,Zeus,212072,106036,Eating,Active,Eating,Zeus
+burst_2,Zeus,212073,106037,Eating,Active,Eating,Zeus
+burst_2,Zeus,212074,106037,Eating,Active,Eating,Zeus
+burst_2,Zeus,212075,106038,Eating,Active,Eating,Zeus
+burst_2,Zeus,212076,106038,Eating,Active,Eating,Zeus
+burst_2,Zeus,212077,106039,Eating,Active,Eating,Zeus
+burst_2,Zeus,212078,106039,Eating,Active,Eating,Zeus
+burst_2,Zeus,212079,106040,Running,Active,Eating,Zeus
+burst_2,Zeus,212080,106040,Eating,Active,Eating,Zeus
+burst_2,Zeus,212081,106041,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,212082,106041,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,212083,106042,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,212084,106042,Resting,Inactive,Resting,Zeus
+burst_2,Zeus,212085,106043,Resting,Inactive,Resting,Zeus
+burst_2,Shongololo,218019,109010,Walking,Active,Walking,Shongololo
+burst_2,Shongololo,218021,109011,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,218022,109011,Resting,Inactive,Resting,Shongololo
+burst_2,Yamuna,258183,129092,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,258184,129092,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,258185,129093,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,258186,129093,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,258187,129094,Eating,Active,Eating,Yamuna
+burst_2,Yamuna,258188,129094,Walking,Active,Eating,Yamuna
+burst_2,Yamuna,258189,129095,Walking,Active,Walking,Yamuna
+burst_2,Yamuna,258190,129095,Walking,Active,Walking,Yamuna
+burst_2,Xian,272417,136209,Self-scratching,Active,Eating,Xian
+burst_2,Xian,272418,136209,Eating,Active,Eating,Xian
+burst_2,Xian,272419,136210,Eating,Active,Eating,Xian
+burst_2,Xian,272420,136210,Eating,Active,Eating,Xian
+burst_2,Xian,272421,136211,Eating,Active,Eating,Xian
+burst_2,Xian,272422,136211,Eating,Active,Eating,Xian
+burst_2,Xian,272423,136212,Eating,Active,Eating,Xian
+burst_2,Xian,272424,136212,Eating,Active,Eating,Xian
+burst_2,Xian,272425,136213,Eating,Active,Eating,Xian
+burst_2,Xian,272426,136213,Eating,Active,Eating,Xian
+burst_2,Xian,282139,141070,Eating,Active,Eating,Xian
+burst_2,Xian,282140,141070,Resting,Inactive,Eating,Xian
+burst_2,Xian,282141,141071,Eating,Active,Eating,Xian
+burst_2,Xian,282142,141071,Walking,Active,Eating,Xian
+burst_2,Xian,282143,141072,Resting,Inactive,Resting,Xian
+burst_2,Xian,282144,141072,Resting,Inactive,Resting,Xian
+burst_2,Xian,282145,141073,Resting,Inactive,Resting,Xian
+burst_2,Xian,282146,141073,Self-scratching,Active,Resting,Xian
+burst_2,Xian,282147,141074,Resting,Inactive,Resting,Xian
+burst_2,Xian,282148,141074,Resting,Inactive,Resting,Xian
+burst_2,Xian,282149,141075,Resting,Inactive,Resting,Xian
+burst_2,Xian,282150,141075,Resting,Inactive,Resting,Xian
+burst_2,Xian,282151,141076,Resting,Inactive,Resting,Xian
+burst_2,Xian,282152,141076,Resting,Inactive,Resting,Xian
+burst_2,Xian,282153,141077,Walking,Active,Eating,Xian
+burst_2,Xian,282154,141077,Eating,Active,Eating,Xian
+burst_2,Xian,282155,141078,Resting,Inactive,Resting,Xian
+burst_2,Xian,282156,141078,Walking,Active,Resting,Xian
+burst_2,Xian,282157,141079,Walking,Active,Walking,Xian
+burst_2,Pomelo,284246,142123,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,284249,142125,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,284250,142125,Eating,Active,Eating,Pomelo
+burst_2,Nakhu,303327,151664,Grooming actor,Active,Grooming actor,Nakhu
+burst_2,Nakhu,303328,151664,Resting,Inactive,Grooming actor,Nakhu
+burst_2,Nakhu,303329,151665,Sleeping,Inactive,Resting,Nakhu
+burst_2,Nakhu,303330,151665,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303331,151666,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303332,151666,Sleeping,Inactive,Resting,Nakhu
+burst_2,Nakhu,303352,151676,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303353,151677,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303354,151677,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303355,151678,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303356,151678,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303357,151679,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303358,151679,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303359,151680,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303360,151680,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303361,151681,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303362,151681,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303363,151682,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303364,151682,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303365,151683,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303366,151683,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303367,151684,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303368,151684,Sleeping,Inactive,Sleeping,Nakhu
+burst_2,Nakhu,303369,151685,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303370,151685,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303371,151686,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,303372,151686,Resting,Inactive,Resting,Nakhu
+burst_2,Xinji,312189,156095,Walking,Active,Resting,train_only
+burst_2,Xinji,312190,156095,Resting,Inactive,Resting,train_only
+burst_2,Aarhus,316597,158299,Running,Active,Running,Aarhus
+burst_2,Aarhus,316599,158300,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,316601,158301,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,316602,158301,Walking,Active,Walking,Aarhus
+burst_2,Okefenokee,316617,158309,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316619,158310,Self-scratching,Active,Resting,Okefenokee
+burst_2,Okefenokee,316620,158310,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316621,158311,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316622,158311,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316623,158312,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316624,158312,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316625,158313,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,316626,158313,Self-scratching,Active,Resting,Okefenokee
+burst_2,Okefenokee,316628,158314,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,316629,158315,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,316630,158315,Eating,Active,Eating,Okefenokee
+burst_2,Heelal,316724,158362,Resting,Inactive,Resting,train_only
+burst_2,Heelal,316725,158363,Sleeping,Inactive,Sleeping,train_only
+burst_2,Heelal,316726,158363,Sleeping,Inactive,Sleeping,train_only
+burst_2,Heelal,316727,158364,Sleeping,Inactive,Sleeping,train_only
+burst_2,Heelal,316728,158364,Sleeping,Inactive,Sleeping,train_only
+burst_2,Heelal,316729,158365,Sleeping,Inactive,Resting,train_only
+burst_2,Heelal,316730,158365,Resting,Inactive,Resting,train_only
+burst_2,Heelal,316731,158366,Resting,Inactive,Resting,train_only
+burst_2,Heelal,316732,158366,Resting,Inactive,Resting,train_only
+burst_2,Heelal,316733,158367,Sleeping,Inactive,Sleeping,train_only
+burst_2,Heelal,316734,158367,Sleeping,Inactive,Sleeping,train_only
+burst_2,Heelal,316735,158368,Resting,Inactive,Resting,train_only
+burst_2,Heelal,316736,158368,Resting,Inactive,Resting,train_only
+burst_2,Seychelles,316821,158411,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,316822,158411,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,316823,158412,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,316825,158413,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,316826,158413,Walking,Active,Resting,Seychelles
+burst_2,Seychelles,316829,158415,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,316830,158415,Resting,Inactive,Resting,Seychelles
+burst_2,Nakhu,320851,160426,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,320852,160426,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,320853,160427,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,320854,160427,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,320855,160428,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,320856,160428,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,320857,160429,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,320858,160429,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,320861,160431,Self-scratching,Active,Self-scratching,Nakhu
+burst_2,Nakhu,320862,160431,Walking,Active,Self-scratching,Nakhu
+burst_2,Nakhu,320863,160432,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,320864,160432,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,320865,160433,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,320866,160433,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,320867,160434,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,320868,160434,Resting,Inactive,Resting,Nakhu
+burst_2,Pomelo,320981,160491,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320982,160491,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320983,160492,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320984,160492,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320985,160493,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320986,160493,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320987,160494,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320988,160494,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320991,160496,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,320995,160498,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,320996,160498,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323171,161586,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,323172,161586,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,323173,161587,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323174,161587,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323177,161589,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323178,161589,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323179,161590,Walking,Active,Eating,Pomelo
+burst_2,Pomelo,323180,161590,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323181,161591,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323182,161591,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,323183,161592,Eating,Active,Eating,Pomelo
+burst_2,Xinji,333617,166809,Resting,Inactive,Resting,train_only
+burst_2,Xinji,333618,166809,Resting,Inactive,Resting,train_only
+burst_2,Xinji,333620,166810,Resting,Inactive,Resting,train_only
+burst_2,Xinji,333621,166811,Resting,Inactive,Resting,train_only
+burst_2,Xinji,333623,166812,Resting,Inactive,Resting,train_only
+burst_2,Xinji,333624,166812,Resting,Inactive,Resting,train_only
+burst_2,Xinji,333625,166813,Resting,Inactive,Resting,train_only
+burst_2,Ratel,347824,173912,Eating,Active,Eating,Ratel
+burst_2,Ratel,347826,173913,Walking,Active,Walking,Ratel
+burst_2,Ratel,347831,173916,Eating,Active,Eating,Ratel
+burst_2,Ratel,347832,173916,Eating,Active,Eating,Ratel
+burst_2,Xian,350917,175459,Resting,Inactive,Resting,Xian
+burst_2,Xian,350918,175459,Self-scratching,Active,Resting,Xian
+burst_2,Xian,350919,175460,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350920,175460,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350921,175461,Resting,Inactive,Resting,Xian
+burst_2,Xian,350922,175461,Resting,Inactive,Resting,Xian
+burst_2,Xian,350923,175462,Resting,Inactive,Resting,Xian
+burst_2,Xian,350924,175462,Resting,Inactive,Resting,Xian
+burst_2,Xian,350925,175463,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350926,175463,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350927,175464,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350928,175464,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350929,175465,Resting,Inactive,Resting,Xian
+burst_2,Xian,350930,175465,Resting,Inactive,Resting,Xian
+burst_2,Xian,350931,175466,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350932,175466,Sleeping,Inactive,Sleeping,Xian
+burst_2,Xian,350933,175467,Sleeping,Inactive,Resting,Xian
+burst_2,Xian,350934,175467,Resting,Inactive,Resting,Xian
+burst_2,Xian,350935,175468,Resting,Inactive,Resting,Xian
+burst_2,Xian,350936,175468,Resting,Inactive,Resting,Xian
+burst_2,Xian,350937,175469,Resting,Inactive,Resting,Xian
+burst_2,Xian,350938,175469,Resting,Inactive,Resting,Xian
+burst_2,Xian,350939,175470,Resting,Inactive,Resting,Xian
+burst_2,Xian,350940,175470,Resting,Inactive,Resting,Xian
+burst_2,Xian,350941,175471,Resting,Inactive,Resting,Xian
+burst_2,Xian,350942,175471,Resting,Inactive,Resting,Xian
+burst_2,Aarhus,358259,179130,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,358260,179130,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,358261,179131,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,358262,179131,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,358263,179132,Resting,Inactive,Resting,Aarhus
+burst_2,Okefenokee,358291,179146,Eating,Active,Eating,Okefenokee
+burst_2,Okefenokee,358292,179146,Running,Active,Eating,Okefenokee
+burst_2,Okefenokee,358303,179152,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358304,179152,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358305,179153,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358306,179153,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358307,179154,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358308,179154,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358309,179155,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358310,179155,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358311,179156,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358312,179156,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358313,179157,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358314,179157,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358319,179160,Walking,Active,Walking,Okefenokee
+burst_2,Okefenokee,358320,179160,Walking,Active,Walking,Okefenokee
+burst_2,Okefenokee,358321,179161,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358322,179161,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358323,179162,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358324,179162,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358325,179163,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358326,179163,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358327,179164,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358328,179164,Resting,Inactive,Resting,Okefenokee
+burst_2,Okefenokee,358329,179165,Walking,Active,Resting,Okefenokee
+burst_2,Okefenokee,358330,179165,Resting,Inactive,Resting,Okefenokee
+burst_2,Nakhu,418011,209006,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418012,209006,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418015,209008,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418017,209009,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418018,209009,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,418019,209010,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418020,209010,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418021,209011,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418022,209011,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418023,209012,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418024,209012,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418026,209013,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,418029,209015,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,418030,209015,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,418031,209016,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418032,209016,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418035,209018,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418036,209018,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418123,209062,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418124,209062,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418125,209063,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418126,209063,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418127,209064,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418128,209064,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418134,209067,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418147,209074,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,418149,209075,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,418150,209075,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,418151,209076,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,418152,209076,Resting,Inactive,Resting,Nakhu
+burst_2,Ratel,423905,211953,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,423907,211954,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,423909,211955,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,423910,211955,Resting,Inactive,Resting,Ratel
+burst_2,Kommunis,429173,214587,Walking,Active,Walking,Kommunis
+burst_2,Kommunis,429174,214587,Walking,Active,Walking,Kommunis
+burst_2,Kommunis,429175,214588,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429176,214588,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429177,214589,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429178,214589,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429179,214590,Resting,Inactive,Eating,Kommunis
+burst_2,Kommunis,429180,214590,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429181,214591,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,429182,214591,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,429183,214592,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,429184,214592,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,429185,214593,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429186,214593,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429187,214594,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429188,214594,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429205,214603,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429206,214603,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429207,214604,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429208,214604,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429209,214605,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429210,214605,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429211,214606,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,429212,214606,Walking,Active,Eating,Kommunis
+burst_2,Kommunis,429213,214607,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,429214,214607,Resting,Inactive,Resting,Kommunis
+burst_2,Seychelles,431399,215700,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,431400,215700,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,431401,215701,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,431402,215701,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,431405,215703,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,431406,215703,Resting,Inactive,Eating,Seychelles
+burst_2,Seychelles,431408,215704,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,431410,215705,Resting,Inactive,Resting,Seychelles
+burst_2,Nakhu,435131,217566,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435133,217567,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435134,217567,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435135,217568,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435137,217569,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435138,217569,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,435164,217582,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,435165,217583,Resting,Inactive,Eating,Nakhu
+burst_2,Nakhu,435166,217583,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,435167,217584,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435168,217584,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435169,217585,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,435170,217585,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,435172,217586,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435174,217587,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435175,217588,Self-scratching,Active,Resting,Nakhu
+burst_2,Nakhu,435176,217588,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435177,217589,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,435178,217589,Resting,Inactive,Resting,Nakhu
+burst_2,Seychelles,448557,224279,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448558,224279,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448559,224280,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448560,224280,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448561,224281,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448562,224281,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448563,224282,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448564,224282,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448565,224283,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448566,224283,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448567,224284,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448568,224284,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448569,224285,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448571,224286,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448572,224286,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448573,224287,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448574,224287,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448575,224288,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448576,224288,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,448577,224289,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448578,224289,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448579,224290,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448580,224290,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448593,224297,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448594,224297,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448595,224298,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448596,224298,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448609,224305,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,448610,224305,Walking,Active,Walking,Seychelles
+burst_2,Seychelles,448611,224306,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448612,224306,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448613,224307,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448614,224307,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448615,224308,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448616,224308,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448617,224309,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448619,224310,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,448620,224310,Resting,Inactive,Resting,Seychelles
+burst_2,Xian,471421,235711,Eating,Active,Eating,Xian
+burst_2,Xian,471422,235711,Eating,Active,Eating,Xian
+burst_2,Seychelles,477923,238962,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,477925,238963,Resting,Inactive,Eating,Seychelles
+burst_2,Seychelles,477926,238963,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477927,238964,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477929,238965,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,477930,238965,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,477931,238966,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477932,238966,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477933,238967,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477934,238967,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477935,238968,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477936,238968,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477937,238969,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,477938,238969,Eating,Active,Eating,Seychelles
+burst_2,Xiashan,573200,286600,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573201,286601,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573202,286601,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573203,286602,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573204,286602,Self-scratching,Active,Resting,Xiashan
+burst_2,Xiashan,573205,286603,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573206,286603,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573207,286604,Resting,Inactive,Resting,Xiashan
+burst_2,Xiashan,573208,286604,Resting,Inactive,Resting,Xiashan
+burst_2,Mieles,579075,289538,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,579076,289538,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,579077,289539,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,579078,289539,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,579089,289545,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Vry,590035,295018,Walking,Active,Walking,Vry
+burst_2,Vry,590036,295018,Walking,Active,Walking,Vry
+burst_2,Vry,590038,295019,Walking,Active,Walking,Vry
+burst_2,Vry,590039,295020,Grooming receiver,Inactive,Grooming actor,Vry
+burst_2,Vry,590040,295020,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,590041,295021,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,590042,295021,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,590043,295022,Resting,Inactive,Resting,Vry
+burst_2,Vry,590044,295022,Resting,Inactive,Resting,Vry
+burst_2,Vry,590045,295023,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,590046,295023,Grooming actor,Active,Grooming actor,Vry
+burst_2,Mieles,594203,297102,Eating,Active,Eating,Mieles
+burst_2,Vry,598029,299015,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,598030,299015,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,598031,299016,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,598032,299016,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,598033,299017,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,598034,299017,Walking,Active,Grooming actor,Vry
+burst_2,Vry,598037,299019,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,598038,299019,Grooming actor,Active,Grooming actor,Vry
+burst_2,Mieles,598283,299142,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598284,299142,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598285,299143,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598286,299143,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598287,299144,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598288,299144,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598291,299146,Self-scratching,Active,Self-scratching,Mieles
+burst_2,Mieles,598293,299147,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,598294,299147,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,598296,299148,Self-scratching,Active,Self-scratching,Mieles
+burst_2,Mieles,598297,299149,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598298,299149,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598299,299150,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598300,299150,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598301,299151,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598302,299151,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598303,299152,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598304,299152,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598305,299153,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598306,299153,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598307,299154,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598308,299154,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598309,299155,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598310,299155,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598311,299156,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598312,299156,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598313,299157,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598314,299157,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,598315,299158,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598316,299158,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598317,299159,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598318,299159,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598319,299160,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,598320,299160,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Seychelles,598617,299309,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,598618,299309,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,598625,299313,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598626,299313,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598629,299315,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598630,299315,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598633,299317,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598634,299317,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598635,299318,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598636,299318,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598637,299319,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598638,299319,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598639,299320,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598640,299320,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598641,299321,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598642,299321,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598644,299322,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,598645,299323,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598647,299324,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,598648,299324,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,598649,299325,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,598650,299325,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,598651,299326,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598652,299326,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598653,299327,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598654,299327,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,598656,299328,Resting,Inactive,Resting,Seychelles
+burst_2,Mieles,600219,300110,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600220,300110,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600221,300111,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600222,300111,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600223,300112,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600224,300112,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600225,300113,Grooming receiver,Inactive,Grooming actor,Mieles
+burst_2,Mieles,600226,300113,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600227,300114,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600228,300114,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600229,300115,Self-scratching,Active,Grooming receiver,Mieles
+burst_2,Mieles,600230,300115,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600231,300116,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600232,300116,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600233,300117,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600234,300117,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600235,300118,Walking,Active,Resting,Mieles
+burst_2,Mieles,600236,300118,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,600237,300119,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,600246,300123,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600247,300124,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600248,300124,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600249,300125,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600250,300125,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600251,300126,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600252,300126,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600253,300127,Resting,Inactive,Grooming actor,Mieles
+burst_2,Mieles,600254,300127,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600255,300128,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600256,300128,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600257,300129,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600258,300129,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600259,300130,Self-scratching,Active,Self-scratching,Mieles
+burst_2,Mieles,600261,300131,Resting,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600262,300131,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600263,300132,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,600264,300132,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,600275,300138,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600276,300138,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,600277,300139,Resting,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600278,300139,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600279,300140,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600280,300140,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600281,300141,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,600282,300141,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Pomelo,600449,300225,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600450,300225,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600451,300226,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600452,300226,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600453,300227,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600454,300227,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600457,300229,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600458,300229,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600459,300230,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600460,300230,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600461,300231,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,600462,300231,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,600463,300232,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600464,300232,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600465,300233,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600466,300233,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600467,300234,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600468,300234,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600469,300235,Walking,Active,Resting,Pomelo
+burst_2,Pomelo,600470,300235,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600473,300237,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,600474,300237,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,600477,300239,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600478,300239,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600479,300240,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600480,300240,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600481,300241,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600483,300242,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600484,300242,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,600485,300243,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,600486,300243,Eating,Active,Eating,Pomelo
+burst_2,Vry,601695,300848,Resting,Inactive,Grooming actor,Vry
+burst_2,Vry,601696,300848,Grooming actor,Active,Grooming actor,Vry
+burst_2,Furry Glen,602031,301016,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602032,301016,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602033,301017,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602034,301017,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602035,301018,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602036,301018,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602037,301019,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602038,301019,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602039,301020,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602040,301020,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602041,301021,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602042,301021,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602043,301022,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602044,301022,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602045,301023,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602046,301023,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602047,301024,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602048,301024,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602049,301025,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602050,301025,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602051,301026,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602052,301026,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602053,301027,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602054,301027,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602055,301028,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602056,301028,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602059,301030,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602060,301030,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602061,301031,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602062,301031,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602063,301032,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602064,301032,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,602065,301033,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602066,301033,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602067,301034,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602068,301034,Grooming actor,Active,Grooming actor,Furry Glen
+burst_2,Furry Glen,602069,301035,Resting,Inactive,Resting,Furry Glen
+burst_2,Xiashan,602107,301054,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,602108,301054,Resting,Inactive,Eating,Xiashan
+burst_2,Xiashan,602111,301056,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602112,301056,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602113,301057,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602114,301057,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602115,301058,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602116,301058,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602117,301059,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602118,301059,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602119,301060,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602120,301060,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602121,301061,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602122,301061,Grooming receiver,Inactive,Grooming receiver,Xiashan
+burst_2,Xiashan,602123,301062,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602124,301062,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602125,301063,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602126,301063,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602127,301064,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602128,301064,Grooming actor,Active,Grooming actor,Xiashan
+burst_2,Xiashan,602129,301065,Walking,Active,Walking,Xiashan
+burst_2,Furry Glen,603467,301734,Walking,Active,Eating,Furry Glen
+burst_2,Furry Glen,603468,301734,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603469,301735,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603470,301735,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603471,301736,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603472,301736,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603473,301737,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603474,301737,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603475,301738,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603476,301738,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603477,301739,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603478,301739,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603479,301740,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603480,301740,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603481,301741,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603482,301741,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603483,301742,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603484,301742,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603485,301743,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603486,301743,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603487,301744,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603488,301744,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603489,301745,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603490,301745,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603491,301746,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603492,301746,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603493,301747,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603494,301747,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603495,301748,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603496,301748,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603497,301749,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603498,301749,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603499,301750,Self-scratching,Active,Self-scratching,Furry Glen
+burst_2,Furry Glen,603500,301750,Walking,Active,Self-scratching,Furry Glen
+burst_2,Furry Glen,603501,301751,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603502,301751,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603503,301752,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603504,301752,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603507,301754,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603508,301754,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603775,301888,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603776,301888,Eating,Active,Eating,Furry Glen
+burst_2,Furry Glen,603777,301889,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603779,301890,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603780,301890,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603781,301891,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,603782,301891,Resting,Inactive,Resting,Furry Glen
+burst_2,Ratel,604637,302319,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604638,302319,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604639,302320,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604640,302320,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604641,302321,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604642,302321,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604643,302322,Eating,Active,Eating,Ratel
+burst_2,Ratel,604644,302322,Eating,Active,Eating,Ratel
+burst_2,Ratel,604645,302323,Walking,Active,Walking,Ratel
+burst_2,Ratel,604646,302323,Walking,Active,Walking,Ratel
+burst_2,Ratel,604647,302324,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604648,302324,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604650,302325,Resting,Inactive,Resting,Ratel
+burst_2,Ratel,604651,302326,Eating,Active,Eating,Ratel
+burst_2,Ratel,604652,302326,Eating,Active,Eating,Ratel
+burst_2,Ratel,604653,302327,Eating,Active,Eating,Ratel
+burst_2,Ratel,604654,302327,Eating,Active,Eating,Ratel
+burst_2,Ratel,604655,302328,Eating,Active,Eating,Ratel
+burst_2,Ratel,604656,302328,Eating,Active,Eating,Ratel
+burst_2,Ratel,604657,302329,Eating,Active,Eating,Ratel
+burst_2,Ratel,604658,302329,Eating,Active,Eating,Ratel
+burst_2,Ratel,604659,302330,Eating,Active,Eating,Ratel
+burst_2,Ratel,604660,302330,Eating,Active,Eating,Ratel
+burst_2,Ratel,604661,302331,Eating,Active,Eating,Ratel
+burst_2,Ratel,604662,302331,Eating,Active,Eating,Ratel
+burst_2,Ratel,604663,302332,Eating,Active,Eating,Ratel
+burst_2,Ratel,604664,302332,Eating,Active,Eating,Ratel
+burst_2,Ratel,604665,302333,Eating,Active,Eating,Ratel
+burst_2,Ratel,604666,302333,Eating,Active,Eating,Ratel
+burst_2,Ratel,604667,302334,Eating,Active,Eating,Ratel
+burst_2,Ratel,604668,302334,Eating,Active,Eating,Ratel
+burst_2,Ratel,604669,302335,Eating,Active,Eating,Ratel
+burst_2,Ratel,604670,302335,Eating,Active,Eating,Ratel
+burst_2,Ratel,604671,302336,Eating,Active,Eating,Ratel
+burst_2,Ratel,604672,302336,Eating,Active,Eating,Ratel
+burst_2,Ratel,604673,302337,Eating,Active,Eating,Ratel
+burst_2,Ratel,604674,302337,Walking,Active,Eating,Ratel
+burst_2,Ratel,604675,302338,Eating,Active,Eating,Ratel
+burst_2,Ratel,604676,302338,Eating,Active,Eating,Ratel
+burst_2,Pomelo,608279,304140,Grooming receiver,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608280,304140,Grooming receiver,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608281,304141,Grooming receiver,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608282,304141,Grooming receiver,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608283,304142,Grooming receiver,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608284,304142,Resting,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608285,304143,Grooming receiver,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608286,304143,Resting,Inactive,Grooming receiver,Pomelo
+burst_2,Pomelo,608288,304144,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608290,304145,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608293,304147,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608294,304147,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608295,304148,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608296,304148,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608297,304149,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608298,304149,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608299,304150,Grooming actor,Active,Grooming actor,Pomelo
+burst_2,Pomelo,608300,304150,Resting,Inactive,Grooming actor,Pomelo
+burst_2,Pomelo,608301,304151,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,608302,304151,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,608303,304152,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,608304,304152,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,608305,304153,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608306,304153,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608307,304154,Walking,Active,Eating,Pomelo
+burst_2,Pomelo,608308,304154,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,608309,304155,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,608310,304155,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,608311,304156,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,608313,304157,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608314,304157,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608315,304158,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,608316,304158,Walking,Active,Walking,Pomelo
+burst_2,Pomelo,608317,304159,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,608318,304159,Resting,Inactive,Resting,Pomelo
+burst_2,Mieles,610043,305022,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610044,305022,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610045,305023,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610046,305023,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610047,305024,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610048,305024,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610049,305025,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610050,305025,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610051,305026,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610052,305026,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610053,305027,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610054,305027,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610055,305028,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610056,305028,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610057,305029,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610058,305029,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610059,305030,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610060,305030,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,610061,305031,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610062,305031,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610063,305032,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,610064,305032,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,610065,305033,Eating,Active,Eating,Mieles
+burst_2,Mieles,610066,305033,Eating,Active,Eating,Mieles
+burst_2,Mieles,610067,305034,Eating,Active,Eating,Mieles
+burst_2,Mieles,610068,305034,Eating,Active,Eating,Mieles
+burst_2,Mieles,610069,305035,Walking,Active,Walking,Mieles
+burst_2,Mieles,610071,305036,Walking,Active,Walking,Mieles
+burst_2,Mieles,610073,305037,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610074,305037,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610075,305038,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610076,305038,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,610077,305039,Eating,Active,Eating,Mieles
+burst_2,Mieles,610078,305039,Walking,Active,Eating,Mieles
+burst_2,Mieles,610079,305040,Eating,Active,Eating,Mieles
+burst_2,Mieles,610080,305040,Eating,Active,Eating,Mieles
+burst_2,Mieles,610081,305041,Eating,Active,Eating,Mieles
+burst_2,Mieles,610082,305041,Eating,Active,Eating,Mieles
+burst_2,Mieles,613284,306642,Walking,Active,Walking,Mieles
+burst_2,Mieles,613287,306644,Eating,Active,Eating,Mieles
+burst_2,Mieles,613288,306644,Eating,Active,Eating,Mieles
+burst_2,Kommunis,613519,306760,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,613520,306760,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,613521,306761,Walking,Active,Resting,Kommunis
+burst_2,Kommunis,613522,306761,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,613524,306762,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613525,306763,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,613526,306763,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,613530,306765,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613532,306766,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613533,306767,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613534,306767,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613535,306768,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613536,306768,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613537,306769,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613538,306769,Eating,Active,Eating,Kommunis
+burst_2,Kommunis,613540,306770,Resting,Inactive,Resting,Kommunis
+burst_2,Kommunis,613545,306773,Resting,Inactive,Resting,Kommunis
+burst_2,Nakhu,614048,307024,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614049,307025,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614050,307025,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614051,307026,Self-scratching,Active,Resting,Nakhu
+burst_2,Nakhu,614052,307026,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614053,307027,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614054,307027,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614055,307028,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614056,307028,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614057,307029,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614058,307029,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,614059,307030,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,614060,307030,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,616289,308145,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,616290,308145,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,616291,308146,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616292,308146,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616293,308147,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616294,308147,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616295,308148,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616296,308148,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616297,308149,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616298,308149,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,616299,308150,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,616300,308150,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,616301,308151,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,616302,308151,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,616303,308152,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,616304,308152,Resting,Inactive,Resting,Nakhu
+burst_2,Seychelles,617815,308908,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617816,308908,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617817,308909,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617818,308909,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617819,308910,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617820,308910,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617821,308911,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,617822,308911,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,617823,308912,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,617824,308912,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,617825,308913,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,617826,308913,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,617828,308914,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617829,308915,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617830,308915,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617831,308916,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617832,308916,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617833,308917,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617834,308917,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617835,308918,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617836,308918,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617837,308919,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617838,308919,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617839,308920,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617840,308920,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617841,308921,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617842,308921,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617843,308922,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617844,308922,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617845,308923,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617846,308923,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617847,308924,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617848,308924,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,617849,308925,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617850,308925,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617851,308926,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617852,308926,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617853,308927,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,617854,308927,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Nakhu,619377,309689,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619378,309689,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619380,309690,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619381,309691,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619382,309691,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,619383,309692,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619384,309692,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,619385,309693,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619386,309693,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619388,309694,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619390,309695,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619391,309696,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619392,309696,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,619394,309697,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619395,309698,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619396,309698,Self-scratching,Active,Eating,Nakhu
+burst_2,Nakhu,619397,309699,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619398,309699,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619399,309700,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619400,309700,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619401,309701,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619402,309701,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619403,309702,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619404,309702,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,619405,309703,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619406,309703,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619407,309704,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619408,309704,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619409,309705,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619411,309706,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619412,309706,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,619413,309707,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619414,309707,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619415,309708,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619421,309711,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619423,309712,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619424,309712,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619425,309713,Walking,Active,Resting,Nakhu
+burst_2,Nakhu,619426,309713,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619427,309714,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,619428,309714,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619429,309715,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619430,309715,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619432,309716,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619433,309717,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619434,309717,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619435,309718,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619436,309718,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619437,309719,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,619439,309720,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619440,309720,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619441,309721,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619442,309721,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619443,309722,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619444,309722,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619445,309723,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,619446,309723,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,619448,309724,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619453,309727,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,619454,309727,Walking,Active,Walking,Nakhu
+burst_2,Vulkaan,620870,310435,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620871,310436,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,620872,310436,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620874,310437,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,620875,310438,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,620876,310438,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,620877,310439,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620878,310439,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620879,310440,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,620881,310441,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620882,310441,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620883,310442,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620884,310442,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620885,310443,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620887,310444,Self-scratching,Active,Self-scratching,Vulkaan
+burst_2,Vulkaan,620889,310445,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,620890,310445,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,620893,310447,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,620894,310447,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,620895,310448,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620896,310448,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620897,310449,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,620898,310449,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,620899,310450,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,620900,310450,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620903,310452,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,620904,310452,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,620906,310453,Resting,Inactive,Resting,Vulkaan
+burst_2,Xiashan,621169,310585,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621170,310585,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621171,310586,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621172,310586,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621173,310587,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621174,310587,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621175,310588,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621176,310588,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621177,310589,Walking,Active,Eating,Xiashan
+burst_2,Xiashan,621178,310589,Eating,Active,Eating,Xiashan
+burst_2,Xiashan,621179,310590,Self-scratching,Active,Eating,Xiashan
+burst_2,Xiashan,621180,310590,Eating,Active,Eating,Xiashan
+burst_2,Umbrella,623993,311997,Walking,Active,Walking,train_only
+burst_2,Umbrella,623994,311997,Walking,Active,Walking,train_only
+burst_2,Umbrella,623995,311998,Eating,Active,Eating,train_only
+burst_2,Umbrella,623996,311998,Eating,Active,Eating,train_only
+burst_2,Aarhus,625053,312527,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,625054,312527,Resting,Inactive,Resting,Aarhus
+burst_2,Aarhus,625055,312528,Walking,Active,Walking,Aarhus
+burst_2,Aarhus,625056,312528,Walking,Active,Walking,Aarhus
+burst_2,Ndawanya,627375,313688,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627376,313688,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627377,313689,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627378,313689,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627380,313690,Self-scratching,Active,Self-scratching,Ndawanya
+burst_2,Ndawanya,627381,313691,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627382,313691,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627383,313692,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627384,313692,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627393,313697,Resting,Inactive,Resting,Ndawanya
+burst_2,Ndawanya,627394,313697,Resting,Inactive,Resting,Ndawanya
+burst_2,Ndawanya,627396,313698,Walking,Active,Walking,Ndawanya
+burst_2,Ndawanya,627397,313699,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627398,313699,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627400,313700,Resting,Inactive,Resting,Ndawanya
+burst_2,Ndawanya,627401,313701,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627402,313701,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627405,313703,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627406,313703,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627407,313704,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627408,313704,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627409,313705,Running,Active,Running,Ndawanya
+burst_2,Ndawanya,627410,313705,Walking,Active,Running,Ndawanya
+burst_2,Ndawanya,627413,313707,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,627414,313707,Eating,Active,Eating,Ndawanya
+burst_2,Vry,630663,315332,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,630664,315332,Grooming receiver,Inactive,Grooming actor,Vry
+burst_2,Vry,630687,315344,Walking,Active,Walking,Vry
+burst_2,Seychelles,633008,316504,Eating,Active,Eating,Seychelles
+burst_2,Seychelles,633013,316507,Eating,Active,Eating,Seychelles
+burst_2,Vry,634261,317131,Grooming actor,Active,Grooming actor,Vry
+burst_2,Vry,634262,317131,Grooming actor,Active,Grooming actor,Vry
+burst_2,Xian,638571,319286,Grooming actor,Active,Grooming actor,Xian
+burst_2,Xian,638572,319286,Grooming actor,Active,Grooming actor,Xian
+burst_2,Pomelo,641031,320516,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641032,320516,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641033,320517,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641034,320517,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641035,320518,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641036,320518,Running,Active,Resting,Pomelo
+burst_2,Pomelo,641037,320519,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641038,320519,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641039,320520,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641040,320520,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641041,320521,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641042,320521,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641043,320522,Grooming actor,Active,Grooming actor,Pomelo
+burst_2,Pomelo,641044,320522,Grooming actor,Active,Grooming actor,Pomelo
+burst_2,Pomelo,641045,320523,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641046,320523,Self-scratching,Active,Resting,Pomelo
+burst_2,Pomelo,641047,320524,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641048,320524,Resting,Inactive,Resting,Pomelo
+burst_2,Pomelo,641049,320525,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641050,320525,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641051,320526,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641052,320526,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641053,320527,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641054,320527,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641055,320528,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641056,320528,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641057,320529,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641058,320529,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641059,320530,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641060,320530,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641061,320531,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641062,320531,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641063,320532,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641064,320532,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641065,320533,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641066,320533,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641067,320534,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641068,320534,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641069,320535,Eating,Active,Eating,Pomelo
+burst_2,Pomelo,641070,320535,Eating,Active,Eating,Pomelo
+burst_2,Xian,642329,321165,Eating,Active,Eating,Xian
+burst_2,Xian,642330,321165,Walking,Active,Eating,Xian
+burst_2,Xian,642331,321166,Walking,Active,Resting,Xian
+burst_2,Xian,642332,321166,Resting,Inactive,Resting,Xian
+burst_2,Xian,642333,321167,Walking,Active,Walking,Xian
+burst_2,Xian,642334,321167,Walking,Active,Walking,Xian
+burst_2,Xian,642335,321168,Resting,Inactive,Resting,Xian
+burst_2,Xian,642336,321168,Resting,Inactive,Resting,Xian
+burst_2,Xian,642337,321169,Resting,Inactive,Resting,Xian
+burst_2,Xian,642338,321169,Resting,Inactive,Resting,Xian
+burst_2,Xian,642339,321170,Walking,Active,Walking,Xian
+burst_2,Xian,642340,321170,Walking,Active,Walking,Xian
+burst_2,Xian,642341,321171,Eating,Active,Eating,Xian
+burst_2,Xian,642342,321171,Eating,Active,Eating,Xian
+burst_2,Xian,642343,321172,Resting,Inactive,Resting,Xian
+burst_2,Xian,642344,321172,Resting,Inactive,Resting,Xian
+burst_2,Xian,642345,321173,Resting,Inactive,Grooming receiver,Xian
+burst_2,Xian,642346,321173,Grooming receiver,Inactive,Grooming receiver,Xian
+burst_2,Xian,642348,321174,Walking,Active,Walking,Xian
+burst_2,Xian,642349,321175,Resting,Inactive,Resting,Xian
+burst_2,Xian,642350,321175,Resting,Inactive,Resting,Xian
+burst_2,Xian,642351,321176,Eating,Active,Eating,Xian
+burst_2,Xian,642352,321176,Eating,Active,Eating,Xian
+burst_2,Xian,642353,321177,Resting,Inactive,Resting,Xian
+burst_2,Xian,642354,321177,Walking,Active,Resting,Xian
+burst_2,Xian,642355,321178,Resting,Inactive,Resting,Xian
+burst_2,Xian,642356,321178,Walking,Active,Resting,Xian
+burst_2,Xian,642357,321179,Resting,Inactive,Resting,Xian
+burst_2,Xian,642358,321179,Resting,Inactive,Resting,Xian
+burst_2,Xian,642359,321180,Resting,Inactive,Resting,Xian
+burst_2,Xian,642360,321180,Walking,Active,Resting,Xian
+burst_2,Xian,642361,321181,Eating,Active,Eating,Xian
+burst_2,Xian,642362,321181,Walking,Active,Eating,Xian
+burst_2,Xian,642365,321183,Walking,Active,Eating,Xian
+burst_2,Xian,642366,321183,Eating,Active,Eating,Xian
+burst_2,Xian,642368,321184,Resting,Inactive,Resting,Xian
+burst_2,Nakhu,644709,322355,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644710,322355,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644712,322356,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644713,322357,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644715,322358,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644716,322358,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644717,322359,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644718,322359,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644719,322360,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644720,322360,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644721,322361,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644722,322361,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644729,322365,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644730,322365,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,644733,322367,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644734,322367,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644735,322368,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644736,322368,Walking,Active,Eating,Nakhu
+burst_2,Nakhu,644737,322369,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644738,322369,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644739,322370,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644740,322370,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644741,322371,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644742,322371,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644743,322372,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644744,322372,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,644745,322373,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644746,322373,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644747,322374,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,644748,322374,Eating,Active,Eating,Nakhu
+burst_2,Seychelles,646331,323166,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,646332,323166,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,646333,323167,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,646334,323167,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,646335,323168,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646336,323168,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646337,323169,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646338,323169,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646339,323170,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646340,323170,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646341,323171,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646342,323171,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646343,323172,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646344,323172,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646345,323173,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646346,323173,Grooming receiver,Inactive,Grooming receiver,Seychelles
+burst_2,Seychelles,646347,323174,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646348,323174,Self-scratching,Active,Resting,Seychelles
+burst_2,Seychelles,646349,323175,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646350,323175,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646351,323176,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646352,323176,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646353,323177,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646354,323177,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646355,323178,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646356,323178,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646357,323179,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,646358,323179,Resting,Inactive,Grooming actor,Seychelles
+burst_2,Seychelles,646359,323180,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646360,323180,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646361,323181,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646362,323181,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646363,323182,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646365,323183,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646366,323183,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646367,323184,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646368,323184,Resting,Inactive,Resting,Seychelles
+burst_2,Seychelles,646369,323185,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Seychelles,646370,323185,Grooming actor,Active,Grooming actor,Seychelles
+burst_2,Nakhu,652085,326043,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652086,326043,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652087,326044,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652088,326044,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652089,326045,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652090,326045,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652091,326046,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652092,326046,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652093,326047,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652094,326047,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652095,326048,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652096,326048,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652097,326049,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652098,326049,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652099,326050,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652100,326050,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652101,326051,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652102,326051,Self-scratching,Active,Resting,Nakhu
+burst_2,Nakhu,652103,326052,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652105,326053,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652106,326053,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652107,326054,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652109,326055,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652110,326055,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652111,326056,Self-scratching,Active,Self-scratching,Nakhu
+burst_2,Nakhu,652112,326056,Walking,Active,Self-scratching,Nakhu
+burst_2,Nakhu,652113,326057,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652114,326057,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652115,326058,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652117,326059,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652118,326059,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652119,326060,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652120,326060,Walking,Active,Walking,Nakhu
+burst_2,Nakhu,652121,326061,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652122,326061,Eating,Active,Eating,Nakhu
+burst_2,Nakhu,652123,326062,Resting,Inactive,Resting,Nakhu
+burst_2,Nakhu,652124,326062,Walking,Active,Resting,Nakhu
+burst_2,Vulkaan,655499,327750,Walking,Active,Walking,Vulkaan
+burst_2,Xian,655791,327896,Walking,Active,Walking,Xian
+burst_2,Xian,655793,327897,Resting,Inactive,Resting,Xian
+burst_2,Xian,655794,327897,Resting,Inactive,Resting,Xian
+burst_2,Xian,655796,327898,Resting,Inactive,Resting,Xian
+burst_2,Xian,655797,327899,Resting,Inactive,Resting,Xian
+burst_2,Xian,655798,327899,Resting,Inactive,Resting,Xian
+burst_2,Xian,655799,327900,Resting,Inactive,Resting,Xian
+burst_2,Xian,655800,327900,Self-scratching,Active,Resting,Xian
+burst_2,Xian,655802,327901,Resting,Inactive,Resting,Xian
+burst_2,Xian,655803,327902,Walking,Active,Walking,Xian
+burst_2,Xian,655804,327902,Walking,Active,Walking,Xian
+burst_2,Xian,655805,327903,Eating,Active,Eating,Xian
+burst_2,Xian,655806,327903,Eating,Active,Eating,Xian
+burst_2,Xian,655807,327904,Eating,Active,Eating,Xian
+burst_2,Xian,655808,327904,Eating,Active,Eating,Xian
+burst_2,Xian,655809,327905,Resting,Inactive,Resting,Xian
+burst_2,Xian,655810,327905,Walking,Active,Resting,Xian
+burst_2,Xian,655811,327906,Resting,Inactive,Resting,Xian
+burst_2,Xian,655812,327906,Resting,Inactive,Resting,Xian
+burst_2,Xian,655813,327907,Resting,Inactive,Resting,Xian
+burst_2,Xian,655816,327908,Resting,Inactive,Resting,Xian
+burst_2,Xian,655817,327909,Resting,Inactive,Resting,Xian
+burst_2,Xian,655818,327909,Resting,Inactive,Resting,Xian
+burst_2,Xian,655819,327910,Resting,Inactive,Resting,Xian
+burst_2,Xian,655820,327910,Resting,Inactive,Resting,Xian
+burst_2,Xian,655821,327911,Resting,Inactive,Resting,Xian
+burst_2,Xian,655822,327911,Resting,Inactive,Resting,Xian
+burst_2,Xian,655823,327912,Eating,Active,Eating,Xian
+burst_2,Xian,655824,327912,Eating,Active,Eating,Xian
+burst_2,Xian,655825,327913,Eating,Active,Eating,Xian
+burst_2,Xian,655826,327913,Self-scratching,Active,Eating,Xian
+burst_2,Xian,655827,327914,Eating,Active,Eating,Xian
+burst_2,Xian,655828,327914,Eating,Active,Eating,Xian
+burst_2,Shongololo,657935,328968,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657936,328968,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657937,328969,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657938,328969,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657939,328970,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657940,328970,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657941,328971,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657942,328971,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657943,328972,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657944,328972,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657945,328973,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657946,328973,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657947,328974,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657948,328974,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657949,328975,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657950,328975,Walking,Active,Eating,Shongololo
+burst_2,Shongololo,657954,328977,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,657956,328978,Walking,Active,Walking,Shongololo
+burst_2,Shongololo,657957,328979,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,657958,328979,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,657959,328980,Self-scratching,Active,Self-scratching,Shongololo
+burst_2,Shongololo,657961,328981,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657963,328982,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657964,328982,Walking,Active,Eating,Shongololo
+burst_2,Shongololo,657965,328983,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657966,328983,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657967,328984,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,657968,328984,Walking,Active,Eating,Shongololo
+burst_2,Mieles,659621,329811,Eating,Active,Eating,Mieles
+burst_2,Mieles,659622,329811,Eating,Active,Eating,Mieles
+burst_2,Mieles,659623,329812,Eating,Active,Eating,Mieles
+burst_2,Mieles,659624,329812,Eating,Active,Eating,Mieles
+burst_2,Mieles,659625,329813,Eating,Active,Eating,Mieles
+burst_2,Mieles,659626,329813,Eating,Active,Eating,Mieles
+burst_2,Mieles,659627,329814,Eating,Active,Eating,Mieles
+burst_2,Mieles,659628,329814,Eating,Active,Eating,Mieles
+burst_2,Mieles,659629,329815,Eating,Active,Eating,Mieles
+burst_2,Mieles,659630,329815,Eating,Active,Eating,Mieles
+burst_2,Mieles,659631,329816,Eating,Active,Eating,Mieles
+burst_2,Mieles,659632,329816,Eating,Active,Eating,Mieles
+burst_2,Mieles,659633,329817,Eating,Active,Eating,Mieles
+burst_2,Mieles,659634,329817,Eating,Active,Eating,Mieles
+burst_2,Mieles,659635,329818,Eating,Active,Eating,Mieles
+burst_2,Mieles,659636,329818,Eating,Active,Eating,Mieles
+burst_2,Mieles,659637,329819,Eating,Active,Eating,Mieles
+burst_2,Mieles,659638,329819,Eating,Active,Eating,Mieles
+burst_2,Mieles,659639,329820,Eating,Active,Eating,Mieles
+burst_2,Mieles,659640,329820,Eating,Active,Eating,Mieles
+burst_2,Mieles,659641,329821,Resting,Inactive,Resting,Mieles
+burst_2,Mieles,659642,329821,Walking,Active,Resting,Mieles
+burst_2,Mieles,659643,329822,Eating,Active,Eating,Mieles
+burst_2,Mieles,659644,329822,Eating,Active,Eating,Mieles
+burst_2,Mieles,659645,329823,Eating,Active,Eating,Mieles
+burst_2,Mieles,659646,329823,Eating,Active,Eating,Mieles
+burst_2,Mieles,659647,329824,Eating,Active,Eating,Mieles
+burst_2,Mieles,659648,329824,Eating,Active,Eating,Mieles
+burst_2,Mieles,659649,329825,Eating,Active,Eating,Mieles
+burst_2,Mieles,659650,329825,Eating,Active,Eating,Mieles
+burst_2,Mieles,659651,329826,Walking,Active,Walking,Mieles
+burst_2,Mieles,659655,329828,Self-scratching,Active,Self-scratching,Mieles
+burst_2,Mieles,659657,329829,Eating,Active,Eating,Mieles
+burst_2,Mieles,659658,329829,Eating,Active,Eating,Mieles
+burst_2,Mieles,659659,329830,Eating,Active,Eating,Mieles
+burst_2,Mieles,659660,329830,Eating,Active,Eating,Mieles
+burst_2,Mieles,659757,329879,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659758,329879,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659759,329880,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659760,329880,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659761,329881,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659762,329881,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659763,329882,Self-scratching,Active,Self-scratching,Mieles
+burst_2,Mieles,659765,329883,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659766,329883,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659767,329884,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659768,329884,Grooming actor,Active,Grooming actor,Mieles
+burst_2,Mieles,659769,329885,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Mieles,659770,329885,Grooming receiver,Inactive,Grooming receiver,Mieles
+burst_2,Shongololo,661285,330643,Self-scratching,Active,Self-scratching,Shongololo
+burst_2,Shongololo,661287,330644,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661288,330644,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661289,330645,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661290,330645,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661291,330646,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661292,330646,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661293,330647,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661294,330647,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661295,330648,Self-scratching,Active,Resting,Shongololo
+burst_2,Shongololo,661296,330648,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661297,330649,Self-scratching,Active,Resting,Shongololo
+burst_2,Shongololo,661298,330649,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661299,330650,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661300,330650,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661301,330651,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661303,330652,Walking,Active,Resting,Shongololo
+burst_2,Shongololo,661304,330652,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661305,330653,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661306,330653,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661307,330654,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661308,330654,Self-scratching,Active,Resting,Shongololo
+burst_2,Shongololo,661309,330655,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661310,330655,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661311,330656,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661312,330656,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661313,330657,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661314,330657,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661315,330658,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661316,330658,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661317,330659,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661318,330659,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,661319,330660,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661320,330660,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661321,330661,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661322,330661,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661323,330662,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,661324,330662,Eating,Active,Eating,Shongololo
+burst_2,Xinji,673265,336633,Grooming receiver,Inactive,Grooming receiver,train_only
+burst_2,Xinji,673266,336633,Grooming receiver,Inactive,Grooming receiver,train_only
+burst_2,Xinji,673267,336634,Resting,Inactive,Resting,train_only
+burst_2,Xinji,673268,336634,Resting,Inactive,Resting,train_only
+burst_2,Xinji,673269,336635,Eating,Active,Eating,train_only
+burst_2,Xinji,673270,336635,Eating,Active,Eating,train_only
+burst_2,Xinji,673271,336636,Eating,Active,Eating,train_only
+burst_2,Xinji,673272,336636,Eating,Active,Eating,train_only
+burst_2,Xinji,673273,336637,Eating,Active,Eating,train_only
+burst_2,Xinji,673274,336637,Eating,Active,Eating,train_only
+burst_2,Xinji,673275,336638,Eating,Active,Eating,train_only
+burst_2,Xinji,673276,336638,Eating,Active,Eating,train_only
+burst_2,Xinji,673277,336639,Eating,Active,Eating,train_only
+burst_2,Xinji,673278,336639,Eating,Active,Eating,train_only
+burst_2,Xinji,673279,336640,Eating,Active,Eating,train_only
+burst_2,Xinji,673280,336640,Eating,Active,Eating,train_only
+burst_2,Vulkaan,674593,337297,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674594,337297,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674595,337298,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674596,337298,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674597,337299,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674598,337299,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674599,337300,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,674600,337300,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,674602,337301,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,674603,337302,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,674604,337302,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674605,337303,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674608,337304,Self-scratching,Active,Self-scratching,Vulkaan
+burst_2,Vulkaan,674609,337305,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674610,337305,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,674611,337306,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674612,337306,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674614,337307,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,674615,337308,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674616,337308,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674617,337309,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674618,337309,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674619,337310,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674620,337310,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674621,337311,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674623,337312,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674624,337312,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674625,337313,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674626,337313,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674627,337314,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,674628,337314,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674629,337315,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,674630,337315,Resting,Inactive,Resting,Vulkaan
+burst_2,Shongololo,679043,339522,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679044,339522,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679045,339523,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,679046,339523,Self-scratching,Active,Resting,Shongololo
+burst_2,Shongololo,679047,339524,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679048,339524,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679049,339525,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679050,339525,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679051,339526,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,679052,339526,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,679053,339527,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679054,339527,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679082,339541,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679083,339542,Walking,Active,Walking,Shongololo
+burst_2,Shongololo,679085,339543,Running,Active,Running,Shongololo
+burst_2,Shongololo,679087,339544,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679088,339544,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679089,339545,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679090,339545,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679091,339546,Walking,Active,Eating,Shongololo
+burst_2,Shongololo,679092,339546,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679093,339547,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679094,339547,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679095,339548,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679096,339548,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679097,339549,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679098,339549,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679099,339550,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679100,339550,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679101,339551,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679102,339551,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679103,339552,Walking,Active,Resting,Shongololo
+burst_2,Shongololo,679104,339552,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,679105,339553,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679106,339553,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679107,339554,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679108,339554,Eating,Active,Eating,Shongololo
+burst_2,Shongololo,679109,339555,Resting,Inactive,Resting,Shongololo
+burst_2,Shongololo,679110,339555,Resting,Inactive,Resting,Shongololo
+burst_2,Vulkaan,684467,342234,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,684469,342235,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,684470,342235,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684471,342236,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,684472,342236,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684473,342237,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684474,342237,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684475,342238,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684476,342238,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684477,342239,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684478,342239,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,684479,342240,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684481,342241,Running,Active,Running,Vulkaan
+burst_2,Vulkaan,684482,342241,Walking,Active,Running,Vulkaan
+burst_2,Vulkaan,684483,342242,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684484,342242,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684485,342243,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684486,342243,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684487,342244,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684488,342244,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,684489,342245,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684490,342245,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684491,342246,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684492,342246,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684493,342247,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684494,342247,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684495,342248,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684496,342248,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684497,342249,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684498,342249,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684499,342250,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684500,342250,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684501,342251,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,684502,342251,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,684503,342252,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684504,342252,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,684505,342253,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,684506,342253,Resting,Inactive,Resting,Vulkaan
+burst_2,Ndawanya,684943,342472,Walking,Active,Eating,Ndawanya
+burst_2,Ndawanya,684944,342472,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684945,342473,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684946,342473,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684949,342475,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684950,342475,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684953,342477,Walking,Active,Eating,Ndawanya
+burst_2,Ndawanya,684954,342477,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684955,342478,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684956,342478,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684958,342479,Resting,Inactive,Resting,Ndawanya
+burst_2,Ndawanya,684959,342480,Resting,Inactive,Resting,Ndawanya
+burst_2,Ndawanya,684960,342480,Resting,Inactive,Resting,Ndawanya
+burst_2,Ndawanya,684962,342481,Walking,Active,Walking,Ndawanya
+burst_2,Ndawanya,684965,342483,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684966,342483,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684967,342484,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684968,342484,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684969,342485,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684970,342485,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684971,342486,Walking,Active,Eating,Ndawanya
+burst_2,Ndawanya,684972,342486,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684973,342487,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684974,342487,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684975,342488,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684976,342488,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684980,342490,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684981,342491,Eating,Active,Eating,Ndawanya
+burst_2,Ndawanya,684982,342491,Eating,Active,Eating,Ndawanya
+burst_2,Vulkaan,690277,345139,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690278,345139,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,690280,345140,Self-scratching,Active,Self-scratching,Vulkaan
+burst_2,Vulkaan,690281,345141,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690282,345141,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690283,345142,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,690284,345142,Walking,Active,Eating,Vulkaan
+burst_2,Vulkaan,690285,345143,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,690287,345144,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,690289,345145,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,690290,345145,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690291,345146,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690292,345146,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690293,345147,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690294,345147,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690295,345148,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,690296,345148,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,690297,345149,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,690298,345149,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,690299,345150,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,690300,345150,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,690301,345151,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,690302,345151,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690303,345152,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690304,345152,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690305,345153,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690306,345153,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,690312,345156,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,714801,357401,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,714802,357401,Walking,Active,Eating,Vulkaan
+burst_2,Vulkaan,714803,357402,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,714804,357402,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,714805,357403,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,714806,357403,Walking,Active,Eating,Vulkaan
+burst_2,Vulkaan,714809,357405,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714810,357405,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714812,357406,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714813,357407,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714814,357407,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714816,357408,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714817,357409,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714818,357409,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714819,357410,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,714820,357410,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714821,357411,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714822,357411,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714823,357412,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714824,357412,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714825,357413,Resting,Inactive,Grooming actor,Vulkaan
+burst_2,Vulkaan,714826,357413,Grooming actor,Active,Grooming actor,Vulkaan
+burst_2,Vulkaan,714827,357414,Grooming actor,Active,Grooming actor,Vulkaan
+burst_2,Vulkaan,714828,357414,Grooming actor,Active,Grooming actor,Vulkaan
+burst_2,Vulkaan,714829,357415,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714830,357415,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,714833,357417,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,714835,357418,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714836,357418,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714838,357419,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,714839,357420,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,714840,357420,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,716925,358463,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716926,358463,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716927,358464,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,716928,358464,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716931,358466,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,716932,358466,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,716935,358468,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716936,358468,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716937,358469,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716938,358469,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716939,358470,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716941,358471,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716942,358471,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716943,358472,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716944,358472,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716945,358473,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,716946,358473,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,716947,358474,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716948,358474,Walking,Active,Resting,Vulkaan
+burst_2,Vulkaan,716949,358475,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716950,358475,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,716951,358476,Self-scratching,Active,Resting,Vulkaan
+burst_2,Vulkaan,716952,358476,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716953,358477,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,716954,358477,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,716955,358478,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716956,358478,Resting,Inactive,Resting,Vulkaan
+burst_2,Vulkaan,716957,358479,Walking,Active,Eating,Vulkaan
+burst_2,Vulkaan,716958,358479,Eating,Active,Eating,Vulkaan
+burst_2,Vulkaan,716960,358480,Walking,Active,Walking,Vulkaan
+burst_2,Vulkaan,716963,358482,Resting,Inactive,Resting,Vulkaan
+burst_2,Furry Glen,755069,377535,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,755070,377535,Grooming receiver,Inactive,Grooming receiver,Furry Glen
+burst_2,Furry Glen,755071,377536,Self-scratching,Active,Resting,Furry Glen
+burst_2,Furry Glen,755072,377536,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755073,377537,Walking,Active,Walking,Furry Glen
+burst_2,Furry Glen,755074,377537,Walking,Active,Walking,Furry Glen
+burst_2,Furry Glen,755075,377538,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755076,377538,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755077,377539,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755078,377539,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755079,377540,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755080,377540,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755081,377541,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755082,377541,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755083,377542,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755084,377542,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755085,377543,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755086,377543,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755087,377544,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755088,377544,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755089,377545,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755090,377545,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755091,377546,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755092,377546,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755093,377547,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755094,377547,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755095,377548,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755096,377548,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755097,377549,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755098,377549,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755099,377550,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755100,377550,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755101,377551,Resting,Inactive,Resting,Furry Glen
+burst_2,Furry Glen,755102,377551,Resting,Inactive,Resting,Furry Glen

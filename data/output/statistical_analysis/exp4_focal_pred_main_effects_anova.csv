@@ -1,4 +1,4 @@
 "model_type","anova_type","term","Chisq","Pr(>Chisq)"
-"Focal_HRB1Unc_TabB4Bas","III","source",15.1166290746887,0.000521753899919791
-"Focal_HRB1Unc_TabB4Bas","III","Final_behaviour",2845.33977438579,0
-"Focal_HRB1Unc_TabB4Bas","III","source:Final_behaviour",440.342895497341,3.90779543399269e-85
+"Focal_HRB2Daily_HRB2Unc_RFB2Unc_TabPFNB2Unc","III","source",858.642203958835,1.52057235038116e-184
+"Focal_HRB2Daily_HRB2Unc_RFB2Unc_TabPFNB2Unc","III","Final_behaviour",9843.15520462141,0
+"Focal_HRB2Daily_HRB2Unc_RFB2Unc_TabPFNB2Unc","III","source:Final_behaviour",1867.55876856567,0

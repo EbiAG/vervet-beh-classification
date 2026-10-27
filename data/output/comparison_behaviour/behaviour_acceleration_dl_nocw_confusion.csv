@@ -1,0 +1,641 @@
+burst,correction_type,target,fold,model,actual_label,predicted_label,count
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Eating,54
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Resting,6
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Walking,9
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Eating,4
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Grooming actor,11
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Resting,8
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Eating,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,6
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Resting,8
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Sleeping,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Eating,8
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Grooming actor,3
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Grooming receiver,3
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Resting,57
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Sleeping,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Walking,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Eating,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Resting,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Walking,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Eating,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Walking,1
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Sleeping,5
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Eating,3
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Running,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Walking,18
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Eating,50
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Resting,5
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Walking,4
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Eating,2
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Grooming actor,10
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Resting,4
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,6
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Resting,7
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Eating,11
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Grooming actor,3
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Resting,69
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Eating,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Resting,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Running,1
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Walking,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Eating,2
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Resting,2
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Sleeping,2
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Eating,10
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Running,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Walking,18
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Eating,63
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Grooming actor,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Resting,8
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Walking,3
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Eating,3
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Grooming actor,13
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Grooming receiver,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Resting,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Walking,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Grooming actor,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,4
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Resting,5
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Sleeping,2
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Eating,5
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Grooming actor,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Resting,65
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Eating,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Resting,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Walking,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Eating,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Resting,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Resting,1
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Sleeping,4
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Eating,6
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Running,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Walking,19
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Eating,50
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Resting,5
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Walking,5
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Eating,3
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Grooming actor,12
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Resting,5
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Eating,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,6
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Resting,2
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Sleeping,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Eating,10
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Grooming actor,2
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Grooming receiver,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Resting,70
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Sleeping,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Eating,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Resting,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Walking,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Eating,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Resting,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Grooming receiver,1
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Resting,2
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Sleeping,4
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Eating,8
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Running,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Walking,19
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Eating,61
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Grooming actor,1
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Resting,3
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Walking,4
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Eating,7
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Grooming actor,7
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Resting,3
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,13
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Resting,4
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Sleeping,3
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Eating,4
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Grooming actor,2
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Grooming receiver,2
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Resting,68
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Sleeping,1
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Walking,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Eating,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Resting,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Running,1
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Walking,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Eating,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Grooming actor,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Resting,1
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Walking,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Resting,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Sleeping,3
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Eating,3
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Resting,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Running,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_1,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Walking,18
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Eating,105
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Grooming actor,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Resting,6
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Running,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Self-scratching,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Eating,Walking,5
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Eating,10
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Grooming actor,10
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Resting,12
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,22
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Resting,14
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Sleeping,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Grooming receiver,Walking,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Eating,18
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Grooming actor,7
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Resting,135
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Running,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Eating,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Resting,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Running,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Running,Walking,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Eating,6
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Resting,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Self-scratching,2
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Resting,4
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Sleeping,6
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Eating,4
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Running,1
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,0,HydraMultiRocketPlus,Walking,Walking,37
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Eating,111
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Grooming actor,8
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Resting,11
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Eating,Walking,12
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Eating,8
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Grooming actor,10
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Resting,5
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Grooming actor,4
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,17
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Resting,8
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Sleeping,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Eating,15
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Grooming actor,3
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Resting,131
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Eating,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Resting,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Running,3
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Running,Walking,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Eating,10
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Grooming actor,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Resting,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Self-scratching,4
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Resting,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Sleeping,10
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Eating,9
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Resting,1
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Running,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,1,HydraMultiRocketPlus,Walking,Walking,44
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Eating,121
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Grooming actor,4
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Resting,14
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Eating,Walking,11
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Eating,8
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Grooming actor,21
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Resting,7
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming actor,Walking,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Eating,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Grooming actor,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,11
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Resting,8
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Sleeping,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Eating,16
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Grooming actor,2
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Resting,126
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Self-scratching,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Sleeping,2
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Eating,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Resting,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Running,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Running,Walking,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Eating,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Resting,3
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Self-scratching,4
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Resting,3
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Sleeping,6
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Eating,11
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Running,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,2,HydraMultiRocketPlus,Walking,Walking,38
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Eating,95
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Grooming actor,5
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Resting,11
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Eating,Walking,4
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Eating,18
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Grooming actor,15
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Resting,14
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,12
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Resting,8
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Sleeping,2
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Eating,9
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Grooming actor,4
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Grooming receiver,3
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Resting,150
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Self-scratching,2
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Eating,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Resting,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Running,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Running,Walking,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Eating,2
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Resting,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Self-scratching,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Grooming receiver,2
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Resting,2
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Sleeping,8
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Eating,17
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Resting,1
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Running,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,3,HydraMultiRocketPlus,Walking,Walking,34
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Eating,105
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Grooming actor,7
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Resting,15
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Sleeping,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Eating,Walking,5
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Eating,15
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Grooming actor,22
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Resting,15
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Sleeping,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming actor,Walking,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Eating,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Grooming actor,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Grooming receiver,12
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Resting,14
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Sleeping,5
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Grooming receiver,Walking,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Eating,16
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Grooming actor,6
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Grooming receiver,4
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Resting,118
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Sleeping,1
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Resting,Walking,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Eating,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Grooming actor,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Resting,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Sleeping,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Running,Walking,2
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Eating,5
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Grooming actor,1
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Resting,2
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Self-scratching,4
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Sleeping,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Self-scratching,Walking,1
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Eating,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Grooming actor,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Grooming receiver,1
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Resting,2
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Sleeping,5
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Sleeping,Walking,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Eating,15
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Grooming actor,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Grooming receiver,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Resting,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Running,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Self-scratching,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Sleeping,0
+Burst_2,uncorrected,Behaviour,4,HydraMultiRocketPlus,Walking,Walking,37

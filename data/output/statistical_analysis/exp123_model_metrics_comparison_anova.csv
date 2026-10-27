@@ -1,7 +1,10 @@
-"comparison","metric","Chisq","Df","Pr(>Chisq)"
-"burst","accuracy",2.88220017501552,3,0.410146442268842
-"burst","roc_auc",1.06792864458673,3,0.784821325568431
-"correction_type","accuracy",8.23235705661918,2,0.016306711159821
-"correction_type","roc_auc",8.77034072449645,2,0.0124607651095375
-"model","accuracy",515.17308148321,8,3.90186982845778e-106
-"model","roc_auc",928.003548060406,8,5.13817105684557e-195
+"comparison","term","metric","Chisq","Df","Pr(>Chisq)"
+"burst","burst","accuracy",0.835219022304458,3,0.841025872687494
+"burst","burst","roc_auc",1.35946462944502,3,0.715063336092066
+"burst","burst","f1_macro",9.27937442997083,3,0.0257980675481833
+"correction","correction_type","accuracy",13.7184328911312,2,0.00104973613586942
+"correction","correction_type","roc_auc",44.4790441253178,2,2.19532229521515e-10
+"correction","correction_type","f1_macro",15.6077431661227,2,0.000408151722807057
+"model","model","accuracy",108.401142025219,8,8.11153568437843e-20
+"model","model","roc_auc",167.178432347911,8,5.03085618607166e-32
+"model","model","f1_macro",71.7149085918707,8,2.23720382145214e-12

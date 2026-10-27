@@ -1,0 +1,2 @@
+model_name,model_type,training_date,data,n_windows,n_features,class_names,balance_probabilities,seed,training_time_seconds
+final_tabpfn_b2_unc,TabPFN,2026-10-29T00:31:52.898584,Burst_2 uncorrected,2147,60,"['Eating', 'Grooming actor', 'Grooming receiver', 'Resting', 'Running', 'Self-scratching', 'Sleeping', 'Walking']",True,42,0.2358231544494629

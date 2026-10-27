@@ -1,0 +1,2 @@
+model_name,model_type,training_date,data,n_windows,class_names,class_weighted_loss,seed,epochs,lr_max,training_time_seconds
+final_hr_b2_rotbasal,HydraMultiRocket,2026-10-22T19:50:51.639084,Burst_2 rotbasal,2147,"['Eating', 'Grooming actor', 'Grooming receiver', 'Resting', 'Running', 'Self-scratching', 'Sleeping', 'Walking']",True,42,50,9.999999747378752e-06,85.58781242370605

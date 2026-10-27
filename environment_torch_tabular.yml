@@ -25,6 +25,7 @@ dependencies:
   - category_encoders=2.6.3
   - imbalanced-learn=0.12.3
   - ipykernel=6.29.3
+  - optuna=4.9.0
   - pip
   - pip:
       - pytorch-optimizer==2.12.0
